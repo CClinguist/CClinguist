@@ -72,12 +72,12 @@ def process_flows(cc, dir,p="y"):
         flag=False
         for row in csv_reader:
             
-            # if line_count<=1:     
+            # if line_count<=1:     #表头和第一行ack跳过
             #     # reject the header
             #     line_count+=1
             #     continue
             if flag==False:
-                if row[0]=='seq' and int(row[-1])>0 and int(row[-2])>0:   
+                if row[0]=='seq' and int(row[-1])>0 and int(row[-2])>0:   #排除建立连接的过程，从seq包长度不为0开始
                     flag=True
                 continue
             # if row[-1]=='nan' or row[-2]=='nan':
@@ -353,7 +353,7 @@ def plot_one_bt(f, p,t=1):
 
 
 def get_time_features(retrans,time,rtt):
-    time_thresh = 20*rtt    
+    time_thresh = 5*rtt     #原本为20
     features = []
     for i in range(1, len(retrans)):
         if retrans[i]-retrans[i-1] >= time_thresh:

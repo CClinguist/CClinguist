@@ -137,7 +137,7 @@ def plot_one_bt(f, p,t=1):
 
 
 def get_time_features(retrans,time,rtt):
-    time_thresh = 20*rtt
+    time_thresh = 5*rtt
     features = []
     for i in range(1, len(retrans)):
         a=retrans[i]-retrans[i-1]
@@ -254,7 +254,7 @@ def process_flows(cc, dir,p="y"):
             ackPkt=False
             validPkt=False
             if flag==False:
-                if row[0]=='seq' and int(row[-1])>0 and int(row[-2])>0:
+                if row[0]=='seq' and int(row[-1])>0 and int(row[-2])>0:   #排除建立连接的过程，从seq包长度不为0开始
                     flag=True
                 continue
             time_interval = float(packet.get("Time"))
