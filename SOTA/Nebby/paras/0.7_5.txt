@@ -1,0 +1,103 @@
+real cc: westwood
+prediction: 
+westwood reno highspeed 
+real cc: highspeed
+prediction: 
+highspeed westwood reno 
+real cc: yeah
+prediction: 
+vegas yeah scalable bic veno 
+real cc: reno
+prediction: 
+reno westwood highspeed 
+real cc: highspeed
+prediction: 
+highspeed westwood reno 
+real cc: yeah
+prediction: 
+vegas yeah veno scalable bic 
+real cc: westwood
+prediction: 
+highspeed westwood reno 
+real cc: veno
+prediction: 
+veno vegas yeah scalable bic 
+real cc: highspeed
+prediction: 
+highspeed westwood reno 
+real cc: westwood
+prediction: 
+westwood reno highspeed 
+real cc: reno
+prediction: 
+westwood reno highspeed 
+real cc: veno
+prediction: 
+veno vegas yeah scalable bic 
+real cc: veno
+prediction: 
+veno vegas yeah scalable bic 
+real cc: veno
+prediction: 
+veno vegas yeah scalable bic 
+real cc: reno
+prediction: 
+westwood highspeed reno 
+real cc: veno
+prediction: 
+veno vegas yeah scalable bic 
+real cc: yeah
+prediction: 
+vegas yeah scalable veno bic 
+real cc: yeah
+prediction: 
+vegas yeah scalable bic veno 
+real cc: reno
+prediction: 
+westwood highspeed reno 
+real cc: highspeed
+prediction: 
+westwood highspeed reno 
+real cc: highspeed
+prediction: 
+highspeed westwood reno 
+real cc: reno
+prediction: 
+reno westwood highspeed 
+real cc: highspeed
+prediction: 
+highspeed westwood reno 
+real cc: veno
+prediction: 
+veno vegas yeah scalable bic 
+real cc: reno
+prediction: 
+highspeed westwood reno 
+real cc: scalable
+prediction: 
+vegas yeah scalable bic veno 
+real cc: veno
+prediction: 
+veno vegas yeah scalable bic 
+real cc: veno
+prediction: 
+veno vegas yeah scalable bic 
+real cc: reno
+prediction: 
+westwood reno highspeed 
+real cc: westwood
+prediction: 
+reno westwood highspeed 
+real cc: westwood
+prediction: 
+reno westwood highspeed 
+real cc: scalable
+prediction: 
+vegas scalable yeah bic veno 
+real cc: reno
+prediction: 
+westwood highspeed reno 
+real cc: reno
+prediction: 
+highspeed westwood reno 
+file num: 182

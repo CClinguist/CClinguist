@@ -1,0 +1,512 @@
+real cc: reno
+prediction: 
+highspeed reno westwood 
+now state: 1 240
+real cc: westwood
+prediction: 
+westwood reno highspeed 
+now state: 2 240
+now state: 2 239
+real cc: highspeed
+prediction: 
+highspeed reno westwood 
+now state: 3 239
+real cc: highspeed
+prediction: 
+reno westwood highspeed 
+now state: 4 238
+real cc: bic
+prediction: 
+scalable bic yeah vegas veno 
+now state: 5 238
+real cc: yeah
+prediction: 
+yeah bic scalable vegas veno 
+now state: 6 238
+real cc: cubic
+prediction: 
+cubic htcp 
+now state: 7 238
+now state: 7 237
+now state: 7 236
+real cc: reno
+prediction: 
+reno westwood highspeed 
+now state: 8 236
+real cc: yeah
+prediction: 
+yeah scalable bic vegas veno 
+now state: 9 236
+now state: 9 235
+now state: 9 234
+real cc: highspeed
+prediction: 
+highspeed reno westwood 
+now state: 10 234
+real cc: yeah
+prediction: 
+yeah bic scalable vegas veno 
+now state: 12 234
+now state: 13 233
+now state: 13 232
+real cc: cubic
+prediction: 
+cubic htcp 
+now state: 15 232
+now state: 15 231
+now state: 15 230
+now state: 15 229
+now state: 15 228
+real cc: highspeed
+prediction: 
+highspeed reno westwood 
+now state: 16 227
+now state: 16 226
+real cc: scalable
+prediction: 
+yeah bic scalable vegas veno 
+now state: 17 226
+real cc: yeah
+prediction: 
+yeah bic scalable vegas veno 
+now state: 18 226
+now state: 18 225
+real cc: highspeed
+prediction: 
+highspeed reno westwood 
+now state: 19 225
+now state: 19 224
+now state: 19 223
+now state: 19 222
+real cc: bic
+prediction: 
+veno bic scalable yeah vegas 
+now state: 20 221
+now state: 21 220
+real cc: cubic
+prediction: 
+cubic htcp 
+now state: 22 220
+real cc: htcp
+prediction: 
+htcp cubic 
+now state: 23 220
+real cc: cubic
+prediction: 
+cubic htcp 
+now state: 24 220
+now state: 24 219
+real cc: westwood
+prediction: 
+highspeed reno westwood 
+now state: 25 219
+real cc: yeah
+prediction: 
+scalable bic vegas yeah veno 
+now state: 26 219
+now state: 26 218
+real cc: veno
+prediction: 
+veno bic yeah scalable vegas 
+now state: 27 217
+real cc: htcp
+prediction: 
+cubic htcp 
+now state: 28 217
+real cc: highspeed
+prediction: 
+highspeed reno westwood 
+now state: 29 217
+real cc: highspeed
+prediction: 
+highspeed reno westwood 
+now state: 30 217
+real cc: westwood
+prediction: 
+westwood reno highspeed 
+now state: 31 217
+real cc: reno
+prediction: 
+highspeed reno westwood 
+now state: 32 217
+real cc: reno
+prediction: 
+westwood highspeed reno 
+now state: 33 217
+now state: 33 215
+now state: 33 214
+now state: 33 213
+real cc: veno
+prediction: 
+veno bic vegas scalable yeah 
+now state: 34 213
+real cc: reno
+prediction: 
+highspeed reno westwood 
+now state: 35 213
+real cc: veno
+prediction: 
+veno bic vegas scalable yeah 
+now state: 36 213
+real cc: reno
+prediction: 
+highspeed reno westwood 
+now state: 37 213
+real cc: highspeed
+prediction: 
+highspeed reno westwood 
+now state: 38 213
+real cc: westwood
+prediction: 
+reno westwood highspeed 
+now state: 39 213
+real cc: reno
+prediction: 
+highspeed reno westwood 
+now state: 40 213
+real cc: highspeed
+prediction: 
+highspeed reno westwood 
+now state: 41 213
+real cc: reno
+prediction: 
+highspeed westwood reno 
+now state: 42 213
+real cc: htcp
+prediction: 
+htcp cubic 
+now state: 43 213
+real cc: cubic
+prediction: 
+cubic htcp 
+now state: 44 213
+real cc: veno
+prediction: 
+veno bic yeah scalable vegas 
+now state: 45 213
+now state: 45 212
+real cc: reno
+prediction: 
+reno westwood highspeed 
+now state: 46 212
+real cc: westwood
+prediction: 
+highspeed reno westwood 
+now state: 47 212
+real cc: highspeed
+prediction: 
+highspeed reno westwood 
+now state: 48 212
+real cc: veno
+prediction: 
+veno yeah bic scalable vegas 
+now state: 49 212
+now state: 49 210
+now state: 49 209
+real cc: htcp
+prediction: 
+htcp cubic 
+now state: 51 209
+real cc: highspeed
+prediction: 
+highspeed reno westwood 
+now state: 52 209
+real cc: reno
+prediction: 
+highspeed reno westwood 
+now state: 53 208
+real cc: highspeed
+prediction: 
+highspeed reno westwood 
+now state: 54 208
+real cc: yeah
+prediction: 
+yeah bic scalable vegas veno 
+now state: 55 208
+real cc: yeah
+prediction: 
+yeah bic scalable vegas veno 
+now state: 56 208
+now state: 57 207
+real cc: yeah
+prediction: 
+yeah bic scalable vegas veno 
+now state: 58 207
+real cc: westwood
+prediction: 
+westwood highspeed reno 
+now state: 59 207
+real cc: cubic
+prediction: 
+cubic htcp 
+now state: 60 207
+real cc: reno
+prediction: 
+reno westwood highspeed 
+now state: 61 207
+real cc: htcp
+prediction: 
+htcp cubic 
+now state: 62 207
+real cc: highspeed
+prediction: 
+reno westwood highspeed 
+now state: 64 207
+now state: 64 206
+real cc: highspeed
+prediction: 
+reno westwood highspeed 
+now state: 65 206
+now state: 65 204
+now state: 65 203
+real cc: bic
+prediction: 
+yeah bic scalable vegas veno 
+now state: 66 203
+real cc: scalable
+prediction: 
+scalable bic vegas yeah veno 
+now state: 67 203
+now state: 67 202
+now state: 67 201
+real cc: cubic
+prediction: 
+cubic htcp 
+now state: 68 201
+now state: 68 200
+real cc: htcp
+prediction: 
+htcp cubic 
+now state: 69 200
+real cc: htcp
+prediction: 
+htcp cubic 
+now state: 70 199
+real cc: bic
+prediction: 
+yeah bic veno scalable vegas 
+now state: 71 198
+real cc: highspeed
+prediction: 
+highspeed reno westwood 
+now state: 72 198
+real cc: reno
+prediction: 
+reno westwood highspeed 
+now state: 73 198
+now state: 73 197
+real cc: yeah
+prediction: 
+yeah bic scalable vegas veno 
+now state: 75 197
+real cc: reno
+prediction: 
+highspeed reno westwood 
+now state: 76 197
+real cc: highspeed
+prediction: 
+highspeed reno westwood 
+now state: 77 197
+real cc: westwood
+prediction: 
+highspeed reno westwood 
+now state: 78 197
+now state: 78 196
+real cc: veno
+prediction: 
+veno bic vegas scalable yeah 
+now state: 79 196
+now state: 80 195
+real cc: scalable
+prediction: 
+yeah bic scalable vegas veno 
+now state: 81 195
+real cc: cubic
+prediction: 
+cubic htcp 
+now state: 83 195
+real cc: bic
+prediction: 
+scalable vegas bic yeah veno 
+now state: 85 195
+real cc: westwood
+prediction: 
+highspeed reno westwood 
+now state: 86 195
+real cc: reno
+prediction: 
+highspeed reno westwood 
+now state: 87 195
+now state: 87 194
+real cc: cubic
+prediction: 
+cubic htcp 
+now state: 88 194
+now state: 88 193
+now state: 88 192
+real cc: scalable
+prediction: 
+scalable bic vegas yeah veno 
+now state: 89 192
+real cc: yeah
+prediction: 
+veno yeah bic scalable vegas 
+now state: 90 191
+now state: 91 190
+now state: 91 189
+now state: 91 188
+real cc: scalable
+prediction: 
+yeah scalable bic vegas veno 
+now state: 92 188
+real cc: westwood
+prediction: 
+reno westwood highspeed 
+now state: 93 188
+real cc: westwood
+prediction: 
+westwood reno highspeed 
+now state: 94 187
+real cc: veno
+prediction: 
+veno bic vegas scalable yeah 
+now state: 95 187
+now state: 95 186
+real cc: htcp
+prediction: 
+htcp cubic 
+now state: 96 186
+real cc: htcp
+prediction: 
+htcp cubic 
+now state: 97 186
+now state: 97 185
+now state: 97 184
+now state: 97 183
+now state: 97 182
+real cc: reno
+prediction: 
+highspeed reno westwood 
+now state: 98 182
+now state: 98 181
+now state: 98 180
+real cc: htcp
+prediction: 
+htcp cubic 
+now state: 99 180
+now state: 99 179
+now state: 99 177
+real cc: westwood
+prediction: 
+highspeed reno westwood 
+now state: 100 177
+now state: 100 176
+real cc: highspeed
+prediction: 
+highspeed reno westwood 
+now state: 101 176
+now state: 101 175
+real cc: veno
+prediction: 
+veno bic yeah scalable vegas 
+now state: 102 175
+real cc: highspeed
+prediction: 
+highspeed reno westwood 
+now state: 103 175
+now state: 103 174
+real cc: cubic
+prediction: 
+cubic htcp 
+now state: 104 174
+real cc: westwood
+prediction: 
+highspeed reno westwood 
+now state: 105 174
+now state: 105 171
+now state: 105 170
+now state: 105 169
+real cc: highspeed
+prediction: 
+highspeed reno westwood 
+now state: 107 169
+real cc: westwood
+prediction: 
+highspeed reno westwood 
+now state: 108 169
+now state: 109 168
+now state: 109 167
+now state: 109 166
+real cc: westwood
+prediction: 
+highspeed reno westwood 
+now state: 110 166
+real cc: reno
+prediction: 
+reno westwood highspeed 
+now state: 112 166
+now state: 112 165
+real cc: highspeed
+prediction: 
+highspeed reno westwood 
+now state: 114 165
+real cc: westwood
+prediction: 
+westwood reno highspeed 
+now state: 115 165
+real cc: cubic
+prediction: 
+cubic htcp 
+now state: 116 165
+real cc: htcp
+prediction: 
+htcp cubic 
+now state: 118 165
+real cc: htcp
+prediction: 
+htcp cubic 
+now state: 119 165
+now state: 119 164
+real cc: cubic
+prediction: 
+cubic htcp 
+now state: 120 163
+real cc: westwood
+prediction: 
+highspeed reno westwood 
+now state: 121 163
+real cc: westwood
+prediction: 
+highspeed reno westwood 
+now state: 122 163
+now state: 122 162
+now state: 122 161
+now state: 122 160
+now state: 122 159
+real cc: htcp
+prediction: 
+htcp cubic 
+now state: 123 159
+now state: 123 158
+real cc: reno
+prediction: 
+highspeed reno westwood 
+now state: 124 158
+now state: 124 157
+now state: 124 156
+real cc: reno
+prediction: 
+reno westwood highspeed 
+now state: 125 156
+now state: 126 153
+now state: 126 152
+real cc: cubic
+prediction: 
+cubic htcp 
+now state: 127 152
+now state: 127 150
+real cc: reno
+prediction: 
+westwood highspeed reno 
+now state: 129 150
+file num: 150
