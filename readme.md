@@ -27,8 +27,8 @@ An Expert-Free Framework for Future-Compatible Congestion Control Algorithm Iden
 
 - For data collection, run:
     ```sh
-    data_collection/run.py
-    data_collection/ecn_enable/run.py
+    python data_collection/run.py
+    python data_collection/ecn_enable/run.py
     ```
 
 ### 2. Training with Data
@@ -43,14 +43,14 @@ You can train the classifier and the profile generator with the data you collect
     ```
 4. With the trained classifier, you can train the profile generator. Make sure to set the options in `profile_generator/option.py`:
     ```sh
-    profile_generator/run.py
+    python profile_generator/run.py
     ```
 
 ### 2. Testing
 
 Given a trained Classifier and Generator, use the following script to test the example data:
 ```sh
-python /profile_generator/run.py
+python profile_generator/run.py
 ```
 
 Analyze the results with:
