@@ -1,0 +1,18 @@
+Algorithm Final Accuracy Results (Pass=1, Fail=0 or Accuracy if configured):
+astraea     : 1.0000 (10 files)
+bbr         : 1.0000 (10 files)
+bic         : 1.0000 (10 files)
+cubic       : 1.0000 (10 files)
+highspeed   : 0.8000 (10 files)
+htcp        : 1.0000 (10 files)
+illinois    : 1.0000 (10 files)
+pccLatency  : 1.0000 (10 files)
+pccLoss     : 0.6000 (10 files)
+reno        : 0.8000 (10 files)
+scalable    : 1.0000 (10 files)
+vegas       : 1.0000 (10 files)
+veno        : 0.6000 (10 files)
+westwood    : 1.0000 (10 files)
+yeah        : 1.0000 (10 files)
+
+Total Final Accuracy (mean over all algorithms): 0.9200

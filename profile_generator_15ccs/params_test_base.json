@@ -1,0 +1,10 @@
+[
+    {
+        "coef_acc_reward": 10,
+        "coef_obvious_reward": 20,
+        "coef_search_penalty": 5,
+        "base_penalty": 15,
+        "direction_penalty": 30,
+        "load_path":"model_rl_paras/0518-1537-46/epoch-2.pt"
+    }
+]

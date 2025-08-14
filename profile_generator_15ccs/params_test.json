@@ -1,0 +1,242 @@
+[
+    {
+        "coef_acc_reward": 10,
+        "coef_obvious_reward": 14.16,
+        "coef_search_penalty": 5,
+        "base_penalty": 15,
+        "direction_penalty": 30,
+        "load_path": "model_rl_paras/0607-1548-34/epoch-4.pt"
+    },
+    {
+        "coef_acc_reward": 10,
+        "coef_obvious_reward": 31.86,
+        "coef_search_penalty": 5,
+        "base_penalty": 15,
+        "direction_penalty": 30,
+        "load_path": "model_rl_paras/0607-1556-47/epoch-4.pt"
+    },
+    {
+        "coef_acc_reward": 10,
+        "coef_obvious_reward": 11.59,
+        "coef_search_penalty": 5,
+        "base_penalty": 15,
+        "direction_penalty": 30,
+        "load_path": "model_rl_paras/0607-1605-41/epoch-4.pt"
+    },
+    {
+        "coef_acc_reward": 10,
+        "coef_obvious_reward": 33.46,
+        "coef_search_penalty": 5,
+        "base_penalty": 15,
+        "direction_penalty": 30,
+        "load_path": "model_rl_paras/0607-1613-54/epoch-4.pt"
+    },
+    {
+        "coef_acc_reward": 10,
+        "coef_obvious_reward": 31.4,
+        "coef_search_penalty": 5,
+        "base_penalty": 15,
+        "direction_penalty": 30,
+        "load_path": "model_rl_paras/0607-1622-25/epoch-4.pt"
+    },
+    {
+        "coef_acc_reward": 18.97,
+        "coef_obvious_reward": 20,
+        "coef_search_penalty": 5,
+        "base_penalty": 15,
+        "direction_penalty": 30,
+        "load_path": "model_rl_paras/0607-1631-05/epoch-4.pt"
+    },
+    {
+        "coef_acc_reward": 17.12,
+        "coef_obvious_reward": 20,
+        "coef_search_penalty": 5,
+        "base_penalty": 15,
+        "direction_penalty": 30,
+        "load_path": "model_rl_paras/0607-1639-53/epoch-4.pt"
+    },
+    {
+        "coef_acc_reward": 19.06,
+        "coef_obvious_reward": 20,
+        "coef_search_penalty": 5,
+        "base_penalty": 15,
+        "direction_penalty": 30,
+        "load_path": "model_rl_paras/0607-1648-32/epoch-4.pt"
+    },
+    {
+        "coef_acc_reward": 17.67,
+        "coef_obvious_reward": 20,
+        "coef_search_penalty": 5,
+        "base_penalty": 15,
+        "direction_penalty": 30,
+        "load_path": "model_rl_paras/0607-1657-17/epoch-4.pt"
+    },
+    {
+        "coef_acc_reward": 5.54,
+        "coef_obvious_reward": 20,
+        "coef_search_penalty": 5,
+        "base_penalty": 15,
+        "direction_penalty": 30,
+        "load_path": "model_rl_paras/0607-1705-53/epoch-4.pt"
+    },
+    {
+        "coef_acc_reward": 10,
+        "coef_obvious_reward": 20,
+        "coef_search_penalty": 3.72,
+        "base_penalty": 15,
+        "direction_penalty": 30,
+        "load_path": "model_rl_paras/0607-1714-16/epoch-4.pt"
+    },
+    {
+        "coef_acc_reward": 10,
+        "coef_obvious_reward": 20,
+        "coef_search_penalty": 0.06,
+        "base_penalty": 15,
+        "direction_penalty": 30,
+        "load_path": "model_rl_paras/0607-1722-55/epoch-4.pt"
+    },
+    {
+        "coef_acc_reward": 10,
+        "coef_obvious_reward": 20,
+        "coef_search_penalty": 8.55,
+        "base_penalty": 15,
+        "direction_penalty": 30,
+        "load_path": "model_rl_paras/0607-1731-47/epoch-4.pt"
+    },
+    {
+        "coef_acc_reward": 10,
+        "coef_obvious_reward": 20,
+        "coef_search_penalty": 3.45,
+        "base_penalty": 15,
+        "direction_penalty": 30,
+        "load_path": "model_rl_paras/0607-1740-06/epoch-4.pt"
+    },
+    {
+        "coef_acc_reward": 10,
+        "coef_obvious_reward": 20,
+        "coef_search_penalty": 6.34,
+        "base_penalty": 15,
+        "direction_penalty": 30,
+        "load_path": "model_rl_paras/0607-1748-49/epoch-4.pt"
+    },
+    {
+        "coef_acc_reward": 10,
+        "coef_obvious_reward": 20,
+        "coef_search_penalty": 5,
+        "base_penalty": 12.21,
+        "direction_penalty": 30,
+        "load_path": "model_rl_paras/0607-1757-32/epoch-4.pt"
+    },
+    {
+        "coef_acc_reward": 10,
+        "coef_obvious_reward": 20,
+        "coef_search_penalty": 5,
+        "base_penalty": 20.84,
+        "direction_penalty": 30,
+        "load_path": "model_rl_paras/0607-1806-12/epoch-4.pt"
+    },
+    {
+        "coef_acc_reward": 10,
+        "coef_obvious_reward": 20,
+        "coef_search_penalty": 5,
+        "base_penalty": 12.75,
+        "direction_penalty": 30,
+        "load_path": "model_rl_paras/0607-1814-39/epoch-4.pt"
+    },
+    {
+        "coef_acc_reward": 10,
+        "coef_obvious_reward": 20,
+        "coef_search_penalty": 5,
+        "base_penalty": 20.1,
+        "direction_penalty": 30,
+        "load_path": "model_rl_paras/0607-1823-09/epoch-4.pt"
+    },
+    {
+        "coef_acc_reward": 10,
+        "coef_obvious_reward": 20,
+        "coef_search_penalty": 5,
+        "base_penalty": 23.44,
+        "direction_penalty": 30,
+        "load_path": "model_rl_paras/0607-1831-32/epoch-4.pt"
+    },
+    {
+        "coef_acc_reward": 10,
+        "coef_obvious_reward": 20,
+        "coef_search_penalty": 5,
+        "base_penalty": 15,
+        "direction_penalty": 20.27,
+        "load_path": "model_rl_paras/0607-1839-56/epoch-4.pt"
+    },
+    {
+        "coef_acc_reward": 10,
+        "coef_obvious_reward": 20,
+        "coef_search_penalty": 5,
+        "base_penalty": 15,
+        "direction_penalty": 21.3,
+        "load_path": "model_rl_paras/0607-1848-42/epoch-4.pt"
+    },
+    {
+        "coef_acc_reward": 10,
+        "coef_obvious_reward": 20,
+        "coef_search_penalty": 5,
+        "base_penalty": 15,
+        "direction_penalty": 40.08,
+        "load_path": "model_rl_paras/0607-1857-20/epoch-4.pt"
+    },
+    {
+        "coef_acc_reward": 10,
+        "coef_obvious_reward": 20,
+        "coef_search_penalty": 5,
+        "base_penalty": 15,
+        "direction_penalty": 35.24,
+        "load_path": "model_rl_paras/0607-1905-37/epoch-4.pt"
+    },
+    {
+        "coef_acc_reward": 10,
+        "coef_obvious_reward": 20,
+        "coef_search_penalty": 5,
+        "base_penalty": 15,
+        "direction_penalty": 40.17,
+        "load_path": "model_rl_paras/0607-1914-02/epoch-4.pt"
+    },
+    {
+        "coef_acc_reward": 14.46,
+        "coef_obvious_reward": 29.2,
+        "coef_search_penalty": 7.01,
+        "base_penalty": 15,
+        "direction_penalty": 30,
+        "load_path": "model_rl_paras/0607-1922-23/epoch-4.pt"
+    },
+    {
+        "coef_acc_reward": 13.98,
+        "coef_obvious_reward": 28.8,
+        "coef_search_penalty": 8.35,
+        "base_penalty": 15,
+        "direction_penalty": 30,
+        "load_path": "model_rl_paras/0607-1930-58/epoch-4.pt"
+    },
+    {
+        "coef_acc_reward": 5.49,
+        "coef_obvious_reward": 14.28,
+        "coef_search_penalty": 2.41,
+        "base_penalty": 15,
+        "direction_penalty": 30,
+        "load_path": "model_rl_paras/0607-1939-40/epoch-4.pt"
+    },
+    {
+        "coef_acc_reward": 5.31,
+        "coef_obvious_reward": 12.55,
+        "coef_search_penalty": 1.17,
+        "base_penalty": 15,
+        "direction_penalty": 30,
+        "load_path": "model_rl_paras/0607-1947-48/epoch-4.pt"
+    },
+    {
+        "coef_acc_reward": 15.74,
+        "coef_obvious_reward": 29.51,
+        "coef_search_penalty": 7.2,
+        "base_penalty": 15,
+        "direction_penalty": 30,
+        "load_path": "model_rl_paras/0607-1956-09/epoch-4.pt"
+    }
+]
