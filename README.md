@@ -18,7 +18,7 @@ We provide pre-trained models for quick testing, you can also collect your own d
 
 ## A. Docker Setup
 
-For detailed instructions, see [README_docker.md](README_docker.md).
+For detailed instructions, see [README_docker.md](README_docker_en.md).
 
 ---
 
