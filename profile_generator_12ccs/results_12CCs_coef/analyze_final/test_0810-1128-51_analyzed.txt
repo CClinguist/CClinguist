@@ -1,0 +1,15 @@
+Algorithm Final Accuracy Results (Pass=1, Fail=0 or Accuracy if configured):
+bbr         : 1.0000 (9 files)
+bic         : 1.0000 (9 files)
+cubic       : 1.0000 (9 files)
+highspeed   : 0.8889 (9 files)
+htcp        : 0.7778 (9 files)
+illinois    : 1.0000 (9 files)
+reno        : 1.0000 (9 files)
+scalable    : 1.0000 (9 files)
+vegas       : 1.0000 (9 files)
+veno        : 1.0000 (9 files)
+westwood    : 1.0000 (9 files)
+yeah        : 0.8889 (9 files)
+
+Total Final Accuracy (mean over all algorithms): 0.9630

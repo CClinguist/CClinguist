@@ -1,0 +1,1077 @@
+
+env:  2 rtt_320ms_bdw_1000Kbps
+step: 1 num of alos 7
+['11', ' [2]', '[11]', '1']
+['10', ' [2]', '[10]', '1']
+['9', ' [2]', '[9]', '1']
+['5', ' [2]', '[4]', '1']
+['1', ' [2]', '[1]', '1']
+['7', ' [2]', '[11]', '1']
+['3', ' [2]', '[11]', '1']
+step: 7 num of alos 3
+['0', ' [ 2 13 24 13 24 13 24]', '[3 3 6 3 6 3 6]', '7']
+['8', ' [ 2  3 13  3 13  3 13]', '[8 8 4 8 4 8 4]', '7']
+['2', ' [ 2 13  3 13 24 13 24]', '[5 6 6 6 0 6 0]', '7']
+step: 3 num of alos 1
+['6', ' [ 2 13  3]', '[3 3 3]', '3']
+avg_step: 2.5833333333333335
+
+env:  6 rtt_360ms_bdw_400Kbps
+step: 1 num of alos 9
+['10', ' [6]', '[10]', '1']
+['2', ' [6]', '[2]', '1']
+['7', ' [6]', '[5]', '1']
+['3', ' [6]', '[2]', '1']
+['5', ' [6]', '[7]', '1']
+['9', ' [6]', '[9]', '1']
+['6', ' [6]', '[5]', '1']
+['1', ' [6]', '[1]', '1']
+['11', ' [6]', '[9]', '1']
+step: 2 num of alos 1
+['4', ' [6 3]', '[4 4]', '2']
+step: 3 num of alos 1
+['0', ' [ 6 13  3]', '[7 3 5]', '3']
+step: 7 num of alos 1
+['8', ' [ 6  3 13  3 13  3 13]', '[4 8 4 8 4 8 4]', '7']
+avg_step: 1.75
+
+env:  19 rtt_240ms_bdw_600Kbps
+step: 1 num of alos 9
+['0', ' [19]', '[5]', '1']
+['3', ' [19]', '[3]', '1']
+['5', ' [19]', '[5]', '1']
+['11', ' [19]', '[11]', '1']
+['9', ' [19]', '[11]', '1']
+['10', ' [19]', '[10]', '1']
+['4', ' [19]', '[8]', '1']
+['7', ' [19]', '[5]', '1']
+['1', ' [19]', '[1]', '1']
+step: 7 num of alos 2
+['6', ' [19 13 24 13 24 13 24]', '[7 6 6 6 6 6 6]', '7']
+['2', ' [19 13 24 13 24 13 24]', '[7 6 6 6 6 6 6]', '7']
+avg_step: 1.9166666666666667
+
+env:  12 rtt_200ms_bdw_800Kbps
+step: 1 num of alos 11
+['4', ' [12]', '[1]', '1']
+['10', ' [12]', '[10]', '1']
+['0', ' [12]', '[2]', '1']
+['2', ' [12]', '[5]', '1']
+['9', ' [12]', '[9]', '1']
+['3', ' [12]', '[3]', '1']
+['7', ' [12]', '[2]', '1']
+['5', ' [12]', '[5]', '1']
+['6', ' [12]', '[5]', '1']
+['1', ' [12]', '[1]', '1']
+['11', ' [12]', '[10]', '1']
+step: 7 num of alos 1
+['8', ' [12  3 13  3 13  3 13]', '[4 8 4 8 4 8 4]', '7']
+avg_step: 1.5
+
+env:  5 rtt_400ms_bdw_600Kbps
+step: 1 num of alos 10
+['4', ' [5]', '[8]', '1']
+['5', ' [5]', '[2]', '1']
+['3', ' [5]', '[2]', '1']
+['10', ' [5]', '[10]', '1']
+['6', ' [5]', '[5]', '1']
+['0', ' [5]', '[5]', '1']
+['7', ' [5]', '[2]', '1']
+['9', ' [5]', '[11]', '1']
+['11', ' [5]', '[10]', '1']
+['1', ' [5]', '[1]', '1']
+step: 7 num of alos 2
+['2', ' [ 5 13 24 13 24 13 24]', '[2 6 0 6 0 6 0]', '7']
+['8', ' [ 5  3 13  3 13  3 13]', '[4 8 4 8 4 8 4]', '7']
+avg_step: 2.0
+
+env:  27 rtt_160ms_bdw_600Kbps
+step: 1 num of alos 12
+['11', ' [27]', '[11]', '1']
+['4', ' [27]', '[8]', '1']
+['8', ' [27]', '[8]', '1']
+['7', ' [27]', '[5]', '1']
+['10', ' [27]', '[10]', '1']
+['9', ' [27]', '[9]', '1']
+['3', ' [27]', '[3]', '1']
+['1', ' [27]', '[1]', '1']
+['2', ' [27]', '[2]', '1']
+['0', ' [27]', '[3]', '1']
+['6', ' [27]', '[6]', '1']
+['5', ' [27]', '[5]', '1']
+avg_step: 1.0
+
+env:  11 rtt_240ms_bdw_1000Kbps
+step: 1 num of alos 11
+['7', ' [11]', '[2]', '1']
+['2', ' [11]', '[5]', '1']
+['11', ' [11]', '[11]', '1']
+['3', ' [11]', '[2]', '1']
+['10', ' [11]', '[10]', '1']
+['1', ' [11]', '[1]', '1']
+['4', ' [11]', '[8]', '1']
+['5', ' [11]', '[2]', '1']
+['6', ' [11]', '[0]', '1']
+['8', ' [11]', '[4]', '1']
+['9', ' [11]', '[9]', '1']
+avg_step: 0.9166666666666666
+
+env:  7 rtt_200ms_bdw_1000Kbps
+step: 1 num of alos 8
+['10', ' [7]', '[10]', '1']
+['1', ' [7]', '[1]', '1']
+['2', ' [7]', '[5]', '1']
+['6', ' [7]', '[5]', '1']
+['3', ' [7]', '[2]', '1']
+['0', ' [7]', '[5]', '1']
+['9', ' [7]', '[9]', '1']
+['11', ' [7]', '[11]', '1']
+step: 7 num of alos 1
+['8', ' [ 7  3 13  3 13  3 13]', '[4 8 4 8 4 8 4]', '7']
+step: 2 num of alos 2
+['5', ' [ 7 13]', '[6 2]', '2']
+['4', ' [7 3]', '[4 4]', '2']
+avg_step: 1.5833333333333333
+
+env:  18 rtt_320ms_bdw_800Kbps
+step: 1 num of alos 10
+['8', ' [18]', '[10]', '1']
+['2', ' [18]', '[5]', '1']
+['5', ' [18]', '[2]', '1']
+['4', ' [18]', '[4]', '1']
+['9', ' [18]', '[9]', '1']
+['11', ' [18]', '[11]', '1']
+['1', ' [18]', '[1]', '1']
+['10', ' [18]', '[10]', '1']
+['0', ' [18]', '[5]', '1']
+['7', ' [18]', '[2]', '1']
+step: 3 num of alos 1
+['6', ' [18 13  3]', '[0 3 3]', '3']
+avg_step: 1.0833333333333333
+
+env:  28 rtt_120ms_bdw_1000Kbps
+step: 1 num of alos 10
+['9', ' [28]', '[6]', '1']
+['4', ' [28]', '[4]', '1']
+['1', ' [28]', '[1]', '1']
+['3', ' [28]', '[3]', '1']
+['10', ' [28]', '[11]', '1']
+['5', ' [28]', '[2]', '1']
+['2', ' [28]', '[2]', '1']
+['0', ' [28]', '[0]', '1']
+['6', ' [28]', '[6]', '1']
+['7', ' [28]', '[7]', '1']
+step: 2 num of alos 1
+['11', ' [28 15]', '[11 11]', '2']
+avg_step: 1.0
+
+env:  29 rtt_280ms_bdw_400Kbps
+step: 1 num of alos 11
+['4', ' [29]', '[4]', '1']
+['0', ' [29]', '[0]', '1']
+['9', ' [29]', '[9]', '1']
+['5', ' [29]', '[7]', '1']
+['2', ' [29]', '[2]', '1']
+['3', ' [29]', '[3]', '1']
+['1', ' [29]', '[1]', '1']
+['11', ' [29]', '[11]', '1']
+['10', ' [29]', '[10]', '1']
+['8', ' [29]', '[8]', '1']
+['6', ' [29]', '[9]', '1']
+avg_step: 0.9166666666666666
+
+env:  15 rtt_240ms_bdw_400Kbps
+step: 1 num of alos 9
+['11', ' [15]', '[11]', '1']
+['9', ' [15]', '[9]', '1']
+['10', ' [15]', '[10]', '1']
+['6', ' [15]', '[6]', '1']
+['2', ' [15]', '[2]', '1']
+['8', ' [15]', '[8]', '1']
+['3', ' [15]', '[3]', '1']
+['5', ' [15]', '[7]', '1']
+['7', ' [15]', '[7]', '1']
+step: 7 num of alos 1
+['0', ' [15 13 24 13 24 13 24]', '[9 3 7 3 7 3 7]', '7']
+avg_step: 1.3333333333333333
+
+env:  25 rtt_280ms_bdw_600Kbps
+step: 1 num of alos 8
+['11', ' [25]', '[11]', '1']
+['8', ' [25]', '[1]', '1']
+['9', ' [25]', '[9]', '1']
+['2', ' [25]', '[5]', '1']
+['7', ' [25]', '[5]', '1']
+['5', ' [25]', '[9]', '1']
+['6', ' [25]', '[5]', '1']
+['3', ' [25]', '[1]', '1']
+step: 3 num of alos 1
+['4', ' [25 38 15]', '[1 1 4]', '3']
+avg_step: 0.9166666666666666
+
+env:  20 rtt_240ms_bdw_800Kbps
+step: 1 num of alos 9
+['7', ' [20]', '[2]', '1']
+['9', ' [20]', '[9]', '1']
+['0', ' [20]', '[3]', '1']
+['3', ' [20]', '[2]', '1']
+['5', ' [20]', '[5]', '1']
+['11', ' [20]', '[10]', '1']
+['6', ' [20]', '[9]', '1']
+['1', ' [20]', '[1]', '1']
+['10', ' [20]', '[10]', '1']
+step: 2 num of alos 1
+['4', ' [20 15]', '[4 4]', '2']
+step: 7 num of alos 2
+['2', ' [20 13 24 13 24 13 24]', '[7 6 0 6 0 6 0]', '7']
+['8', ' [20  3 13  3 13  3 13]', '[4 8 4 8 4 8 4]', '7']
+avg_step: 2.0833333333333335
+
+env:  9 rtt_280ms_bdw_1000Kbps
+step: 3 num of alos 1
+['6', ' [ 9 13  3]', '[3 3 3]', '3']
+step: 7 num of alos 1
+['0', ' [ 9 13 24 13 24 13 24]', '[3 3 6 3 6 3 6]', '7']
+step: 1 num of alos 8
+['5', ' [9]', '[2]', '1']
+['11', ' [9]', '[11]', '1']
+['1', ' [9]', '[1]', '1']
+['9', ' [9]', '[9]', '1']
+['7', ' [9]', '[1]', '1']
+['10', ' [9]', '[10]', '1']
+['8', ' [9]', '[1]', '1']
+['4', ' [9]', '[4]', '1']
+avg_step: 1.5
+
+env:  4 rtt_200ms_bdw_600Kbps
+step: 1 num of alos 10
+['10', ' [4]', '[10]', '1']
+['5', ' [4]', '[5]', '1']
+['11', ' [4]', '[11]', '1']
+['1', ' [4]', '[1]', '1']
+['7', ' [4]', '[7]', '1']
+['2', ' [4]', '[2]', '1']
+['3', ' [4]', '[3]', '1']
+['9', ' [4]', '[9]', '1']
+['0', ' [4]', '[5]', '1']
+['4', ' [4]', '[4]', '1']
+step: 2 num of alos 1
+['6', ' [ 4 13]', '[6 6]', '2']
+step: 7 num of alos 1
+['8', ' [ 4  3 13  3 13  3 13]', '[4 8 4 8 4 8 4]', '7']
+avg_step: 1.5833333333333333
+
+env:  14 rtt_280ms_bdw_800Kbps
+step: 1 num of alos 9
+['5', ' [14]', '[2]', '1']
+['3', ' [14]', '[2]', '1']
+['9', ' [14]', '[9]', '1']
+['7', ' [14]', '[2]', '1']
+['0', ' [14]', '[9]', '1']
+['1', ' [14]', '[1]', '1']
+['10', ' [14]', '[10]', '1']
+['11', ' [14]', '[11]', '1']
+['6', ' [14]', '[5]', '1']
+step: 7 num of alos 2
+['8', ' [14  3 13  3 13  3 13]', '[4 8 4 8 4 8 4]', '7']
+['2', ' [14 13  3 13 24 13 24]', '[6 6 6 6 0 6 0]', '7']
+step: 2 num of alos 1
+['4', ' [14  3]', '[4 4]', '2']
+avg_step: 2.0833333333333335
+
+env:  10 rtt_160ms_bdw_400Kbps
+step: 1 num of alos 10
+['10', ' [10]', '[10]', '1']
+['3', ' [10]', '[7]', '1']
+['8', ' [10]', '[1]', '1']
+['5', ' [10]', '[5]', '1']
+['0', ' [10]', '[0]', '1']
+['9', ' [10]', '[6]', '1']
+['1', ' [10]', '[1]', '1']
+['11', ' [10]', '[11]', '1']
+['4', ' [10]', '[1]', '1']
+['2', ' [10]', '[2]', '1']
+step: 3 num of alos 1
+['6', ' [10 13  3]', '[11  0  0]', '3']
+avg_step: 1.0833333333333333
+
+env:  22 rtt_160ms_bdw_1000Kbps
+step: 1 num of alos 9
+['3', ' [22]', '[2]', '1']
+['11', ' [22]', '[11]', '1']
+['7', ' [22]', '[3]', '1']
+['6', ' [22]', '[6]', '1']
+['10', ' [22]', '[10]', '1']
+['2', ' [22]', '[2]', '1']
+['1', ' [22]', '[1]', '1']
+['0', ' [22]', '[0]', '1']
+['9', ' [22]', '[11]', '1']
+step: 2 num of alos 3
+['8', ' [22 15]', '[4 8]', '2']
+['4', ' [22  3]', '[8 4]', '2']
+['5', ' [22 13]', '[7 6]', '2']
+avg_step: 1.25
+
+env:  17 rtt_400ms_bdw_400Kbps
+step: 1 num of alos 8
+['6', ' [17]', '[5]', '1']
+['2', ' [17]', '[3]', '1']
+['10', ' [17]', '[10]', '1']
+['5', ' [17]', '[9]', '1']
+['11', ' [17]', '[11]', '1']
+['1', ' [17]', '[1]', '1']
+['3', ' [17]', '[3]', '1']
+['9', ' [17]', '[9]', '1']
+step: 2 num of alos 1
+['4', ' [17  3]', '[4 4]', '2']
+step: 7 num of alos 2
+['0', ' [17 13 24 13 24 13 24]', '[7 3 6 3 6 3 6]', '7']
+['8', ' [17  3 13  3 13  3 13]', '[8 8 4 8 4 8 4]', '7']
+avg_step: 2.0
+
+env:  24 rtt_400ms_bdw_800Kbps
+step: 7 num of alos 2
+['2', ' [24 13  3 13 24 13 24]', '[0 6 6 6 0 6 0]', '7']
+['8', ' [24  3 13  3 13  3 13]', '[4 8 4 8 4 8 4]', '7']
+step: 2 num of alos 2
+['7', ' [24 15]', '[11 10]', '2']
+['11', ' [24 15]', '[10 11]', '2']
+step: 1 num of alos 6
+['1', ' [24]', '[1]', '1']
+['3', ' [24]', '[11]', '1']
+['4', ' [24]', '[11]', '1']
+['9', ' [24]', '[9]', '1']
+['10', ' [24]', '[11]', '1']
+['5', ' [24]', '[11]', '1']
+step: 3 num of alos 2
+['0', ' [24 13  3]', '[6 3 5]', '3']
+['6', ' [24 13  3]', '[0 3 3]', '3']
+avg_step: 2.5
+
+env:  3 rtt_360ms_bdw_800Kbps
+step: 1 num of alos 10
+['11', ' [3]', '[11]', '1']
+['9', ' [3]', '[9]', '1']
+['10', ' [3]', '[10]', '1']
+['7', ' [3]', '[4]', '1']
+['0', ' [3]', '[5]', '1']
+['6', ' [3]', '[3]', '1']
+['3', ' [3]', '[1]', '1']
+['4', ' [3]', '[4]', '1']
+['5', ' [3]', '[9]', '1']
+['1', ' [3]', '[1]', '1']
+step: 7 num of alos 2
+['2', ' [ 3 13 24 13 24 13 24]', '[6 6 0 6 0 6 0]', '7']
+['8', ' [ 3 13  3 13  3 13  3]', '[8 4 8 4 8 4 8]', '7']
+avg_step: 2.0
+
+env:  8 rtt_360ms_bdw_600Kbps
+step: 1 num of alos 8
+['1', ' [8]', '[1]', '1']
+['6', ' [8]', '[5]', '1']
+['10', ' [8]', '[10]', '1']
+['11', ' [8]', '[10]', '1']
+['5', ' [8]', '[0]', '1']
+['9', ' [8]', '[9]', '1']
+['2', ' [8]', '[2]', '1']
+['0', ' [8]', '[5]', '1']
+step: 7 num of alos 2
+['7', ' [ 8 13 24 13 24 13 24]', '[6 6 5 6 5 6 5]', '7']
+['8', ' [ 8  3 13  3 13  3 13]', '[4 8 4 8 4 8 4]', '7']
+step: 2 num of alos 2
+['4', ' [8 3]', '[8 4]', '2']
+['3', ' [ 8 13]', '[7 2]', '2']
+avg_step: 2.1666666666666665
+
+env:  30 rtt_320ms_bdw_400Kbps
+step: 1 num of alos 7
+['3', ' [30]', '[3]', '1']
+['0', ' [30]', '[9]', '1']
+['6', ' [30]', '[5]', '1']
+['9', ' [30]', '[9]', '1']
+['8', ' [30]', '[8]', '1']
+['1', ' [30]', '[1]', '1']
+['4', ' [30]', '[1]', '1']
+step: 2 num of alos 3
+['2', ' [30 13]', '[6 6]', '2']
+['11', ' [30 15]', '[10 10]', '2']
+['7', ' [30 13]', '[2 2]', '2']
+avg_step: 1.0833333333333333
+
+env:  26 rtt_120ms_bdw_800Kbps
+step: 1 num of alos 8
+['2', ' [26]', '[2]', '1']
+['11', ' [26]', '[11]', '1']
+['5', ' [26]', '[5]', '1']
+['1', ' [26]', '[4]', '1']
+['4', ' [26]', '[4]', '1']
+['0', ' [26]', '[7]', '1']
+['10', ' [26]', '[11]', '1']
+['6', ' [26]', '[6]', '1']
+step: 3 num of alos 1
+['9', ' [26 13  3]', '[9 5 5]', '3']
+avg_step: 0.9166666666666666
+
+env:  16 rtt_120ms_bdw_600Kbps
+step: 1 num of alos 12
+['3', ' [16]', '[3]', '1']
+['9', ' [16]', '[9]', '1']
+['10', ' [16]', '[10]', '1']
+['1', ' [16]', '[1]', '1']
+['6', ' [16]', '[6]', '1']
+['2', ' [16]', '[2]', '1']
+['5', ' [16]', '[5]', '1']
+['7', ' [16]', '[7]', '1']
+['4', ' [16]', '[4]', '1']
+['8', ' [16]', '[8]', '1']
+['0', ' [16]', '[0]', '1']
+['11', ' [16]', '[11]', '1']
+avg_step: 1.0
+
+env:  23 rtt_400ms_bdw_1000Kbps
+step: 1 num of alos 9
+['9', ' [23]', '[9]', '1']
+['4', ' [23]', '[2]', '1']
+['3', ' [23]', '[2]', '1']
+['7', ' [23]', '[2]', '1']
+['1', ' [23]', '[1]', '1']
+['5', ' [23]', '[2]', '1']
+['10', ' [23]', '[9]', '1']
+['2', ' [23]', '[2]', '1']
+['11', ' [23]', '[2]', '1']
+step: 3 num of alos 2
+['6', ' [23 13  3]', '[3 3 3]', '3']
+['0', ' [23 13  3]', '[0 3 5]', '3']
+step: 7 num of alos 1
+['8', ' [23  3 13  3 13  3 13]', '[4 8 4 8 4 8 4]', '7']
+avg_step: 1.8333333333333333
+
+env:  32 rtt_120ms_bdw_400Kbps
+step: 1 num of alos 9
+['8', ' [32]', '[8]', '1']
+['4', ' [32]', '[1]', '1']
+['9', ' [32]', '[9]', '1']
+['0', ' [32]', '[0]', '1']
+['5', ' [32]', '[5]', '1']
+['10', ' [32]', '[5]', '1']
+['3', ' [32]', '[10]', '1']
+['11', ' [32]', '[8]', '1']
+['2', ' [32]', '[2]', '1']
+step: 2 num of alos 3
+['6', ' [32 13]', '[11  6]', '2']
+['1', ' [32 13]', '[7 3]', '2']
+['7', ' [32 13]', '[ 7 10]', '2']
+avg_step: 1.25
+
+env:  21 rtt_200ms_bdw_400Kbps
+step: 1 num of alos 12
+['7', ' [21]', '[7]', '1']
+['9', ' [21]', '[9]', '1']
+['4', ' [21]', '[4]', '1']
+['1', ' [21]', '[1]', '1']
+['5', ' [21]', '[5]', '1']
+['0', ' [21]', '[0]', '1']
+['6', ' [21]', '[6]', '1']
+['3', ' [21]', '[3]', '1']
+['2', ' [21]', '[2]', '1']
+['8', ' [21]', '[8]', '1']
+['11', ' [21]', '[11]', '1']
+['10', ' [21]', '[10]', '1']
+avg_step: 1.0
+
+env:  13 rtt_360ms_bdw_1000Kbps
+step: 2 num of alos 3
+['10', ' [13 15]', '[ 9 11]', '2']
+['8', ' [13 15]', '[4 8]', '2']
+['0', ' [13  3]', '[3 5]', '2']
+step: 1 num of alos 6
+['4', ' [13]', '[2]', '1']
+['1', ' [13]', '[1]', '1']
+['7', ' [13]', '[2]', '1']
+['11', ' [13]', '[2]', '1']
+['5', ' [13]', '[2]', '1']
+['3', ' [13]', '[2]', '1']
+step: 7 num of alos 2
+['9', ' [13  3 13  3 13  3 13]', '[5 5 5 5 5 5 5]', '7']
+['2', ' [13  3 13 24 13 24 13]', '[6 6 6 0 6 0 6]', '7']
+avg_step: 2.1666666666666665
+
+env:  1 rtt_320ms_bdw_600Kbps
+step: 1 num of alos 9
+['1', ' [1]', '[1]', '1']
+['5', ' [1]', '[5]', '1']
+['3', ' [1]', '[3]', '1']
+['9', ' [1]', '[9]', '1']
+['0', ' [1]', '[5]', '1']
+['2', ' [1]', '[2]', '1']
+['10', ' [1]', '[10]', '1']
+['6', ' [1]', '[5]', '1']
+['11', ' [1]', '[11]', '1']
+step: 7 num of alos 1
+['8', ' [ 1  3 13  3 13  3 13]', '[4 8 4 8 4 8 4]', '7']
+step: 2 num of alos 1
+['4', ' [ 1 15]', '[1 4]', '2']
+step: 3 num of alos 1
+['7', ' [ 1 13 24]', '[0 6 7]', '3']
+avg_step: 1.75
+
+env:  31 rtt_160ms_bdw_800Kbps
+step: 1 num of alos 7
+['5', ' [31]', '[3]', '1']
+['6', ' [31]', '[6]', '1']
+['7', ' [31]', '[3]', '1']
+['10', ' [31]', '[10]', '1']
+['11', ' [31]', '[11]', '1']
+['1', ' [31]', '[1]', '1']
+['3', ' [31]', '[3]', '1']
+step: 2 num of alos 1
+['9', ' [31 15]', '[10  9]', '2']
+step: 7 num of alos 2
+['2', ' [31 13 24 13 24 13 24]', '[6 6 6 6 6 6 6]', '7']
+['0', ' [31 13 24 13 24 13 24]', '[7 5 6 5 6 5 6]', '7']
+avg_step: 1.9166666666666667
+
+Env Info: 2 rtt_320ms_bdw_1000Kbps
+total tests: 1
+alo_index: 11, alo_name = cubic, accuracy: 1.0
+alo_index: 10, alo_name = bic, accuracy: 1.0
+alo_index: 9, alo_name = illinois, accuracy: 1.0
+alo_index: 5, alo_name = highspeed, accuracy: 0.0
+alo_index: 1, alo_name = bbr, accuracy: 1.0
+alo_index: 7, alo_name = reno, accuracy: 0.0
+alo_index: 3, alo_name = westwood, accuracy: 0.0
+alo_index: 0, alo_name = htcp, accuracy: 0.0
+alo_index: 8, alo_name = yeah, accuracy: 0.0
+alo_index: 2, alo_name = vegas, accuracy: 0.0
+alo_index: 6, alo_name = veno, accuracy: 0.0
+average accuracy: 0.3333333333333333
+
+Env Info: 6 rtt_360ms_bdw_400Kbps
+total tests: 1
+alo_index: 10, alo_name = bic, accuracy: 1.0
+alo_index: 2, alo_name = vegas, accuracy: 1.0
+alo_index: 7, alo_name = reno, accuracy: 0.0
+alo_index: 3, alo_name = westwood, accuracy: 0.0
+alo_index: 5, alo_name = highspeed, accuracy: 0.0
+alo_index: 9, alo_name = illinois, accuracy: 1.0
+alo_index: 6, alo_name = veno, accuracy: 0.0
+alo_index: 1, alo_name = bbr, accuracy: 1.0
+alo_index: 11, alo_name = cubic, accuracy: 0.0
+alo_index: 4, alo_name = scalable, accuracy: 1.0
+alo_index: 0, alo_name = htcp, accuracy: 0.0
+alo_index: 8, alo_name = yeah, accuracy: 0.0
+average accuracy: 0.4166666666666667
+
+Env Info: 19 rtt_240ms_bdw_600Kbps
+total tests: 1
+alo_index: 0, alo_name = htcp, accuracy: 0.0
+alo_index: 3, alo_name = westwood, accuracy: 1.0
+alo_index: 5, alo_name = highspeed, accuracy: 1.0
+alo_index: 11, alo_name = cubic, accuracy: 1.0
+alo_index: 9, alo_name = illinois, accuracy: 0.0
+alo_index: 10, alo_name = bic, accuracy: 1.0
+alo_index: 4, alo_name = scalable, accuracy: 0.0
+alo_index: 7, alo_name = reno, accuracy: 0.0
+alo_index: 1, alo_name = bbr, accuracy: 1.0
+alo_index: 6, alo_name = veno, accuracy: 1.0
+alo_index: 2, alo_name = vegas, accuracy: 0.0
+average accuracy: 0.5
+
+Env Info: 12 rtt_200ms_bdw_800Kbps
+total tests: 1
+alo_index: 4, alo_name = scalable, accuracy: 0.0
+alo_index: 10, alo_name = bic, accuracy: 1.0
+alo_index: 0, alo_name = htcp, accuracy: 0.0
+alo_index: 2, alo_name = vegas, accuracy: 0.0
+alo_index: 9, alo_name = illinois, accuracy: 1.0
+alo_index: 3, alo_name = westwood, accuracy: 1.0
+alo_index: 7, alo_name = reno, accuracy: 0.0
+alo_index: 5, alo_name = highspeed, accuracy: 1.0
+alo_index: 6, alo_name = veno, accuracy: 0.0
+alo_index: 1, alo_name = bbr, accuracy: 1.0
+alo_index: 11, alo_name = cubic, accuracy: 0.0
+alo_index: 8, alo_name = yeah, accuracy: 0.0
+average accuracy: 0.4166666666666667
+
+Env Info: 5 rtt_400ms_bdw_600Kbps
+total tests: 1
+alo_index: 4, alo_name = scalable, accuracy: 0.0
+alo_index: 5, alo_name = highspeed, accuracy: 0.0
+alo_index: 3, alo_name = westwood, accuracy: 0.0
+alo_index: 10, alo_name = bic, accuracy: 1.0
+alo_index: 6, alo_name = veno, accuracy: 0.0
+alo_index: 0, alo_name = htcp, accuracy: 0.0
+alo_index: 7, alo_name = reno, accuracy: 0.0
+alo_index: 9, alo_name = illinois, accuracy: 0.0
+alo_index: 11, alo_name = cubic, accuracy: 0.0
+alo_index: 1, alo_name = bbr, accuracy: 1.0
+alo_index: 2, alo_name = vegas, accuracy: 0.0
+alo_index: 8, alo_name = yeah, accuracy: 0.0
+average accuracy: 0.16666666666666666
+
+Env Info: 27 rtt_160ms_bdw_600Kbps
+total tests: 1
+alo_index: 11, alo_name = cubic, accuracy: 1.0
+alo_index: 4, alo_name = scalable, accuracy: 0.0
+alo_index: 8, alo_name = yeah, accuracy: 1.0
+alo_index: 7, alo_name = reno, accuracy: 0.0
+alo_index: 10, alo_name = bic, accuracy: 1.0
+alo_index: 9, alo_name = illinois, accuracy: 1.0
+alo_index: 3, alo_name = westwood, accuracy: 1.0
+alo_index: 1, alo_name = bbr, accuracy: 1.0
+alo_index: 2, alo_name = vegas, accuracy: 1.0
+alo_index: 0, alo_name = htcp, accuracy: 0.0
+alo_index: 6, alo_name = veno, accuracy: 1.0
+alo_index: 5, alo_name = highspeed, accuracy: 1.0
+average accuracy: 0.75
+
+Env Info: 11 rtt_240ms_bdw_1000Kbps
+total tests: 1
+alo_index: 7, alo_name = reno, accuracy: 0.0
+alo_index: 2, alo_name = vegas, accuracy: 0.0
+alo_index: 11, alo_name = cubic, accuracy: 1.0
+alo_index: 3, alo_name = westwood, accuracy: 0.0
+alo_index: 10, alo_name = bic, accuracy: 1.0
+alo_index: 1, alo_name = bbr, accuracy: 1.0
+alo_index: 4, alo_name = scalable, accuracy: 0.0
+alo_index: 5, alo_name = highspeed, accuracy: 0.0
+alo_index: 6, alo_name = veno, accuracy: 0.0
+alo_index: 8, alo_name = yeah, accuracy: 0.0
+alo_index: 9, alo_name = illinois, accuracy: 1.0
+average accuracy: 0.3333333333333333
+
+Env Info: 7 rtt_200ms_bdw_1000Kbps
+total tests: 1
+alo_index: 10, alo_name = bic, accuracy: 1.0
+alo_index: 1, alo_name = bbr, accuracy: 1.0
+alo_index: 2, alo_name = vegas, accuracy: 0.0
+alo_index: 6, alo_name = veno, accuracy: 0.0
+alo_index: 3, alo_name = westwood, accuracy: 0.0
+alo_index: 0, alo_name = htcp, accuracy: 0.0
+alo_index: 9, alo_name = illinois, accuracy: 1.0
+alo_index: 11, alo_name = cubic, accuracy: 1.0
+alo_index: 8, alo_name = yeah, accuracy: 0.0
+alo_index: 5, alo_name = highspeed, accuracy: 0.0
+alo_index: 4, alo_name = scalable, accuracy: 1.0
+average accuracy: 0.4166666666666667
+
+Env Info: 18 rtt_320ms_bdw_800Kbps
+total tests: 1
+alo_index: 8, alo_name = yeah, accuracy: 0.0
+alo_index: 2, alo_name = vegas, accuracy: 0.0
+alo_index: 5, alo_name = highspeed, accuracy: 0.0
+alo_index: 4, alo_name = scalable, accuracy: 1.0
+alo_index: 9, alo_name = illinois, accuracy: 1.0
+alo_index: 11, alo_name = cubic, accuracy: 1.0
+alo_index: 1, alo_name = bbr, accuracy: 1.0
+alo_index: 10, alo_name = bic, accuracy: 1.0
+alo_index: 0, alo_name = htcp, accuracy: 0.0
+alo_index: 7, alo_name = reno, accuracy: 0.0
+alo_index: 6, alo_name = veno, accuracy: 0.0
+average accuracy: 0.4166666666666667
+
+Env Info: 28 rtt_120ms_bdw_1000Kbps
+total tests: 1
+alo_index: 9, alo_name = illinois, accuracy: 0.0
+alo_index: 4, alo_name = scalable, accuracy: 1.0
+alo_index: 1, alo_name = bbr, accuracy: 1.0
+alo_index: 3, alo_name = westwood, accuracy: 1.0
+alo_index: 10, alo_name = bic, accuracy: 0.0
+alo_index: 5, alo_name = highspeed, accuracy: 0.0
+alo_index: 2, alo_name = vegas, accuracy: 1.0
+alo_index: 0, alo_name = htcp, accuracy: 1.0
+alo_index: 6, alo_name = veno, accuracy: 1.0
+alo_index: 7, alo_name = reno, accuracy: 1.0
+alo_index: 11, alo_name = cubic, accuracy: 1.0
+average accuracy: 0.6666666666666666
+
+Env Info: 29 rtt_280ms_bdw_400Kbps
+total tests: 1
+alo_index: 4, alo_name = scalable, accuracy: 1.0
+alo_index: 0, alo_name = htcp, accuracy: 1.0
+alo_index: 9, alo_name = illinois, accuracy: 1.0
+alo_index: 5, alo_name = highspeed, accuracy: 0.0
+alo_index: 2, alo_name = vegas, accuracy: 1.0
+alo_index: 3, alo_name = westwood, accuracy: 1.0
+alo_index: 1, alo_name = bbr, accuracy: 1.0
+alo_index: 11, alo_name = cubic, accuracy: 1.0
+alo_index: 10, alo_name = bic, accuracy: 1.0
+alo_index: 8, alo_name = yeah, accuracy: 1.0
+alo_index: 6, alo_name = veno, accuracy: 0.0
+average accuracy: 0.75
+
+Env Info: 15 rtt_240ms_bdw_400Kbps
+total tests: 1
+alo_index: 11, alo_name = cubic, accuracy: 1.0
+alo_index: 9, alo_name = illinois, accuracy: 1.0
+alo_index: 10, alo_name = bic, accuracy: 1.0
+alo_index: 6, alo_name = veno, accuracy: 1.0
+alo_index: 2, alo_name = vegas, accuracy: 1.0
+alo_index: 8, alo_name = yeah, accuracy: 1.0
+alo_index: 3, alo_name = westwood, accuracy: 1.0
+alo_index: 5, alo_name = highspeed, accuracy: 0.0
+alo_index: 7, alo_name = reno, accuracy: 1.0
+alo_index: 0, alo_name = htcp, accuracy: 0.0
+average accuracy: 0.6666666666666666
+
+Env Info: 25 rtt_280ms_bdw_600Kbps
+total tests: 1
+alo_index: 11, alo_name = cubic, accuracy: 1.0
+alo_index: 8, alo_name = yeah, accuracy: 0.0
+alo_index: 9, alo_name = illinois, accuracy: 1.0
+alo_index: 2, alo_name = vegas, accuracy: 0.0
+alo_index: 7, alo_name = reno, accuracy: 0.0
+alo_index: 5, alo_name = highspeed, accuracy: 0.0
+alo_index: 6, alo_name = veno, accuracy: 0.0
+alo_index: 3, alo_name = westwood, accuracy: 0.0
+alo_index: 4, alo_name = scalable, accuracy: 1.0
+average accuracy: 0.25
+
+Env Info: 20 rtt_240ms_bdw_800Kbps
+total tests: 1
+alo_index: 7, alo_name = reno, accuracy: 0.0
+alo_index: 9, alo_name = illinois, accuracy: 1.0
+alo_index: 0, alo_name = htcp, accuracy: 0.0
+alo_index: 3, alo_name = westwood, accuracy: 0.0
+alo_index: 5, alo_name = highspeed, accuracy: 1.0
+alo_index: 11, alo_name = cubic, accuracy: 0.0
+alo_index: 6, alo_name = veno, accuracy: 0.0
+alo_index: 1, alo_name = bbr, accuracy: 1.0
+alo_index: 10, alo_name = bic, accuracy: 1.0
+alo_index: 4, alo_name = scalable, accuracy: 1.0
+alo_index: 2, alo_name = vegas, accuracy: 0.0
+alo_index: 8, alo_name = yeah, accuracy: 0.0
+average accuracy: 0.4166666666666667
+
+Env Info: 9 rtt_280ms_bdw_1000Kbps
+total tests: 1
+alo_index: 6, alo_name = veno, accuracy: 0.0
+alo_index: 0, alo_name = htcp, accuracy: 0.0
+alo_index: 5, alo_name = highspeed, accuracy: 0.0
+alo_index: 11, alo_name = cubic, accuracy: 1.0
+alo_index: 1, alo_name = bbr, accuracy: 1.0
+alo_index: 9, alo_name = illinois, accuracy: 1.0
+alo_index: 7, alo_name = reno, accuracy: 0.0
+alo_index: 10, alo_name = bic, accuracy: 1.0
+alo_index: 8, alo_name = yeah, accuracy: 0.0
+alo_index: 4, alo_name = scalable, accuracy: 1.0
+average accuracy: 0.4166666666666667
+
+Env Info: 4 rtt_200ms_bdw_600Kbps
+total tests: 1
+alo_index: 10, alo_name = bic, accuracy: 1.0
+alo_index: 5, alo_name = highspeed, accuracy: 1.0
+alo_index: 11, alo_name = cubic, accuracy: 1.0
+alo_index: 1, alo_name = bbr, accuracy: 1.0
+alo_index: 7, alo_name = reno, accuracy: 1.0
+alo_index: 2, alo_name = vegas, accuracy: 1.0
+alo_index: 3, alo_name = westwood, accuracy: 1.0
+alo_index: 9, alo_name = illinois, accuracy: 1.0
+alo_index: 0, alo_name = htcp, accuracy: 0.0
+alo_index: 4, alo_name = scalable, accuracy: 1.0
+alo_index: 6, alo_name = veno, accuracy: 1.0
+alo_index: 8, alo_name = yeah, accuracy: 0.0
+average accuracy: 0.8333333333333334
+
+Env Info: 14 rtt_280ms_bdw_800Kbps
+total tests: 1
+alo_index: 5, alo_name = highspeed, accuracy: 0.0
+alo_index: 3, alo_name = westwood, accuracy: 0.0
+alo_index: 9, alo_name = illinois, accuracy: 1.0
+alo_index: 7, alo_name = reno, accuracy: 0.0
+alo_index: 0, alo_name = htcp, accuracy: 0.0
+alo_index: 1, alo_name = bbr, accuracy: 1.0
+alo_index: 10, alo_name = bic, accuracy: 1.0
+alo_index: 11, alo_name = cubic, accuracy: 1.0
+alo_index: 6, alo_name = veno, accuracy: 0.0
+alo_index: 8, alo_name = yeah, accuracy: 0.0
+alo_index: 2, alo_name = vegas, accuracy: 0.0
+alo_index: 4, alo_name = scalable, accuracy: 1.0
+average accuracy: 0.4166666666666667
+
+Env Info: 10 rtt_160ms_bdw_400Kbps
+total tests: 1
+alo_index: 10, alo_name = bic, accuracy: 1.0
+alo_index: 3, alo_name = westwood, accuracy: 0.0
+alo_index: 8, alo_name = yeah, accuracy: 0.0
+alo_index: 5, alo_name = highspeed, accuracy: 1.0
+alo_index: 0, alo_name = htcp, accuracy: 1.0
+alo_index: 9, alo_name = illinois, accuracy: 0.0
+alo_index: 1, alo_name = bbr, accuracy: 1.0
+alo_index: 11, alo_name = cubic, accuracy: 1.0
+alo_index: 4, alo_name = scalable, accuracy: 0.0
+alo_index: 2, alo_name = vegas, accuracy: 1.0
+alo_index: 6, alo_name = veno, accuracy: 0.0
+average accuracy: 0.5
+
+Env Info: 22 rtt_160ms_bdw_1000Kbps
+total tests: 1
+alo_index: 3, alo_name = westwood, accuracy: 0.0
+alo_index: 11, alo_name = cubic, accuracy: 1.0
+alo_index: 7, alo_name = reno, accuracy: 0.0
+alo_index: 6, alo_name = veno, accuracy: 1.0
+alo_index: 10, alo_name = bic, accuracy: 1.0
+alo_index: 2, alo_name = vegas, accuracy: 1.0
+alo_index: 1, alo_name = bbr, accuracy: 1.0
+alo_index: 0, alo_name = htcp, accuracy: 1.0
+alo_index: 9, alo_name = illinois, accuracy: 0.0
+alo_index: 8, alo_name = yeah, accuracy: 1.0
+alo_index: 4, alo_name = scalable, accuracy: 1.0
+alo_index: 5, alo_name = highspeed, accuracy: 0.0
+average accuracy: 0.6666666666666666
+
+Env Info: 17 rtt_400ms_bdw_400Kbps
+total tests: 1
+alo_index: 6, alo_name = veno, accuracy: 0.0
+alo_index: 2, alo_name = vegas, accuracy: 0.0
+alo_index: 10, alo_name = bic, accuracy: 1.0
+alo_index: 5, alo_name = highspeed, accuracy: 0.0
+alo_index: 11, alo_name = cubic, accuracy: 1.0
+alo_index: 1, alo_name = bbr, accuracy: 1.0
+alo_index: 3, alo_name = westwood, accuracy: 1.0
+alo_index: 9, alo_name = illinois, accuracy: 1.0
+alo_index: 4, alo_name = scalable, accuracy: 1.0
+alo_index: 0, alo_name = htcp, accuracy: 0.0
+alo_index: 8, alo_name = yeah, accuracy: 0.0
+average accuracy: 0.5
+
+Env Info: 24 rtt_400ms_bdw_800Kbps
+total tests: 1
+alo_index: 2, alo_name = vegas, accuracy: 0.0
+alo_index: 8, alo_name = yeah, accuracy: 0.0
+alo_index: 7, alo_name = reno, accuracy: 0.0
+alo_index: 11, alo_name = cubic, accuracy: 1.0
+alo_index: 1, alo_name = bbr, accuracy: 1.0
+alo_index: 3, alo_name = westwood, accuracy: 0.0
+alo_index: 4, alo_name = scalable, accuracy: 0.0
+alo_index: 9, alo_name = illinois, accuracy: 1.0
+alo_index: 10, alo_name = bic, accuracy: 0.0
+alo_index: 5, alo_name = highspeed, accuracy: 0.0
+alo_index: 0, alo_name = htcp, accuracy: 0.0
+alo_index: 6, alo_name = veno, accuracy: 0.0
+average accuracy: 0.25
+
+Env Info: 3 rtt_360ms_bdw_800Kbps
+total tests: 1
+alo_index: 11, alo_name = cubic, accuracy: 1.0
+alo_index: 9, alo_name = illinois, accuracy: 1.0
+alo_index: 10, alo_name = bic, accuracy: 1.0
+alo_index: 7, alo_name = reno, accuracy: 0.0
+alo_index: 0, alo_name = htcp, accuracy: 0.0
+alo_index: 6, alo_name = veno, accuracy: 0.0
+alo_index: 3, alo_name = westwood, accuracy: 0.0
+alo_index: 4, alo_name = scalable, accuracy: 1.0
+alo_index: 5, alo_name = highspeed, accuracy: 0.0
+alo_index: 1, alo_name = bbr, accuracy: 1.0
+alo_index: 2, alo_name = vegas, accuracy: 0.0
+alo_index: 8, alo_name = yeah, accuracy: 1.0
+average accuracy: 0.5
+
+Env Info: 8 rtt_360ms_bdw_600Kbps
+total tests: 1
+alo_index: 1, alo_name = bbr, accuracy: 1.0
+alo_index: 6, alo_name = veno, accuracy: 0.0
+alo_index: 10, alo_name = bic, accuracy: 1.0
+alo_index: 11, alo_name = cubic, accuracy: 0.0
+alo_index: 5, alo_name = highspeed, accuracy: 0.0
+alo_index: 9, alo_name = illinois, accuracy: 1.0
+alo_index: 2, alo_name = vegas, accuracy: 1.0
+alo_index: 0, alo_name = htcp, accuracy: 0.0
+alo_index: 7, alo_name = reno, accuracy: 0.0
+alo_index: 8, alo_name = yeah, accuracy: 0.0
+alo_index: 4, alo_name = scalable, accuracy: 1.0
+alo_index: 3, alo_name = westwood, accuracy: 0.0
+average accuracy: 0.4166666666666667
+
+Env Info: 30 rtt_320ms_bdw_400Kbps
+total tests: 1
+alo_index: 3, alo_name = westwood, accuracy: 1.0
+alo_index: 0, alo_name = htcp, accuracy: 0.0
+alo_index: 6, alo_name = veno, accuracy: 0.0
+alo_index: 9, alo_name = illinois, accuracy: 1.0
+alo_index: 8, alo_name = yeah, accuracy: 1.0
+alo_index: 1, alo_name = bbr, accuracy: 1.0
+alo_index: 4, alo_name = scalable, accuracy: 0.0
+alo_index: 2, alo_name = vegas, accuracy: 0.0
+alo_index: 11, alo_name = cubic, accuracy: 0.0
+alo_index: 7, alo_name = reno, accuracy: 0.0
+average accuracy: 0.3333333333333333
+
+Env Info: 26 rtt_120ms_bdw_800Kbps
+total tests: 1
+alo_index: 2, alo_name = vegas, accuracy: 1.0
+alo_index: 11, alo_name = cubic, accuracy: 1.0
+alo_index: 5, alo_name = highspeed, accuracy: 1.0
+alo_index: 1, alo_name = bbr, accuracy: 0.0
+alo_index: 4, alo_name = scalable, accuracy: 1.0
+alo_index: 0, alo_name = htcp, accuracy: 0.0
+alo_index: 10, alo_name = bic, accuracy: 0.0
+alo_index: 6, alo_name = veno, accuracy: 1.0
+alo_index: 9, alo_name = illinois, accuracy: 0.0
+average accuracy: 0.4166666666666667
+
+Env Info: 16 rtt_120ms_bdw_600Kbps
+total tests: 1
+alo_index: 3, alo_name = westwood, accuracy: 1.0
+alo_index: 9, alo_name = illinois, accuracy: 1.0
+alo_index: 10, alo_name = bic, accuracy: 1.0
+alo_index: 1, alo_name = bbr, accuracy: 1.0
+alo_index: 6, alo_name = veno, accuracy: 1.0
+alo_index: 2, alo_name = vegas, accuracy: 1.0
+alo_index: 5, alo_name = highspeed, accuracy: 1.0
+alo_index: 7, alo_name = reno, accuracy: 1.0
+alo_index: 4, alo_name = scalable, accuracy: 1.0
+alo_index: 8, alo_name = yeah, accuracy: 1.0
+alo_index: 0, alo_name = htcp, accuracy: 1.0
+alo_index: 11, alo_name = cubic, accuracy: 1.0
+average accuracy: 1.0
+
+Env Info: 23 rtt_400ms_bdw_1000Kbps
+total tests: 1
+alo_index: 9, alo_name = illinois, accuracy: 1.0
+alo_index: 4, alo_name = scalable, accuracy: 0.0
+alo_index: 3, alo_name = westwood, accuracy: 0.0
+alo_index: 7, alo_name = reno, accuracy: 0.0
+alo_index: 1, alo_name = bbr, accuracy: 1.0
+alo_index: 5, alo_name = highspeed, accuracy: 0.0
+alo_index: 10, alo_name = bic, accuracy: 0.0
+alo_index: 2, alo_name = vegas, accuracy: 1.0
+alo_index: 11, alo_name = cubic, accuracy: 0.0
+alo_index: 6, alo_name = veno, accuracy: 0.0
+alo_index: 0, alo_name = htcp, accuracy: 0.0
+alo_index: 8, alo_name = yeah, accuracy: 0.0
+average accuracy: 0.25
+
+Env Info: 32 rtt_120ms_bdw_400Kbps
+total tests: 1
+alo_index: 8, alo_name = yeah, accuracy: 1.0
+alo_index: 4, alo_name = scalable, accuracy: 0.0
+alo_index: 9, alo_name = illinois, accuracy: 1.0
+alo_index: 0, alo_name = htcp, accuracy: 1.0
+alo_index: 5, alo_name = highspeed, accuracy: 1.0
+alo_index: 10, alo_name = bic, accuracy: 0.0
+alo_index: 3, alo_name = westwood, accuracy: 0.0
+alo_index: 11, alo_name = cubic, accuracy: 0.0
+alo_index: 2, alo_name = vegas, accuracy: 1.0
+alo_index: 6, alo_name = veno, accuracy: 1.0
+alo_index: 1, alo_name = bbr, accuracy: 0.0
+alo_index: 7, alo_name = reno, accuracy: 0.0
+average accuracy: 0.5
+
+Env Info: 21 rtt_200ms_bdw_400Kbps
+total tests: 1
+alo_index: 7, alo_name = reno, accuracy: 1.0
+alo_index: 9, alo_name = illinois, accuracy: 1.0
+alo_index: 4, alo_name = scalable, accuracy: 1.0
+alo_index: 1, alo_name = bbr, accuracy: 1.0
+alo_index: 5, alo_name = highspeed, accuracy: 1.0
+alo_index: 0, alo_name = htcp, accuracy: 1.0
+alo_index: 6, alo_name = veno, accuracy: 1.0
+alo_index: 3, alo_name = westwood, accuracy: 1.0
+alo_index: 2, alo_name = vegas, accuracy: 1.0
+alo_index: 8, alo_name = yeah, accuracy: 1.0
+alo_index: 11, alo_name = cubic, accuracy: 1.0
+alo_index: 10, alo_name = bic, accuracy: 1.0
+average accuracy: 1.0
+
+Env Info: 13 rtt_360ms_bdw_1000Kbps
+total tests: 1
+alo_index: 10, alo_name = bic, accuracy: 0.0
+alo_index: 8, alo_name = yeah, accuracy: 1.0
+alo_index: 0, alo_name = htcp, accuracy: 0.0
+alo_index: 4, alo_name = scalable, accuracy: 0.0
+alo_index: 1, alo_name = bbr, accuracy: 1.0
+alo_index: 7, alo_name = reno, accuracy: 0.0
+alo_index: 11, alo_name = cubic, accuracy: 0.0
+alo_index: 5, alo_name = highspeed, accuracy: 0.0
+alo_index: 3, alo_name = westwood, accuracy: 0.0
+alo_index: 9, alo_name = illinois, accuracy: 0.0
+alo_index: 2, alo_name = vegas, accuracy: 0.0
+average accuracy: 0.16666666666666666
+
+Env Info: 1 rtt_320ms_bdw_600Kbps
+total tests: 1
+alo_index: 1, alo_name = bbr, accuracy: 1.0
+alo_index: 5, alo_name = highspeed, accuracy: 1.0
+alo_index: 3, alo_name = westwood, accuracy: 1.0
+alo_index: 9, alo_name = illinois, accuracy: 1.0
+alo_index: 0, alo_name = htcp, accuracy: 0.0
+alo_index: 2, alo_name = vegas, accuracy: 1.0
+alo_index: 10, alo_name = bic, accuracy: 1.0
+alo_index: 6, alo_name = veno, accuracy: 0.0
+alo_index: 11, alo_name = cubic, accuracy: 1.0
+alo_index: 8, alo_name = yeah, accuracy: 0.0
+alo_index: 4, alo_name = scalable, accuracy: 1.0
+alo_index: 7, alo_name = reno, accuracy: 1.0
+average accuracy: 0.75
+
+Env Info: 31 rtt_160ms_bdw_800Kbps
+total tests: 1
+alo_index: 5, alo_name = highspeed, accuracy: 0.0
+alo_index: 6, alo_name = veno, accuracy: 1.0
+alo_index: 7, alo_name = reno, accuracy: 0.0
+alo_index: 10, alo_name = bic, accuracy: 1.0
+alo_index: 11, alo_name = cubic, accuracy: 1.0
+alo_index: 1, alo_name = bbr, accuracy: 1.0
+alo_index: 3, alo_name = westwood, accuracy: 1.0
+alo_index: 9, alo_name = illinois, accuracy: 1.0
+alo_index: 2, alo_name = vegas, accuracy: 0.0
+alo_index: 0, alo_name = htcp, accuracy: 0.0
+average accuracy: 0.5
+
+--------------------------------------------------
+Best Environment Accuracy: 1.0
+Best Environment ID: 16
+Best Environment Parameters: rtt_120ms_bdw_600Kbps
+
+
+--------------------------------------------------
+TOP 3 Environments Algorithm Accuracy:
+
+Environment ID: 16, Parameters: rtt_120ms_bdw_600Kbps,  Accuracy: 1.0000
+
+Environment ID: 21, Parameters: rtt_200ms_bdw_400Kbps,  Accuracy: 1.0000
+
+Environment ID: 4, Parameters: rtt_200ms_bdw_600Kbps,  Accuracy: 0.8333
+
+Average Accuracy in TOP 3 Environments:
+Algorithm Index: 0, Name: htcp, Total Tests: 3, Average Accuracy: 0.6667
+Algorithm Index: 1, Name: bbr, Total Tests: 3, Average Accuracy: 1.0000
+Algorithm Index: 2, Name: vegas, Total Tests: 3, Average Accuracy: 1.0000
+Algorithm Index: 3, Name: westwood, Total Tests: 3, Average Accuracy: 1.0000
+Algorithm Index: 4, Name: scalable, Total Tests: 3, Average Accuracy: 1.0000
+Algorithm Index: 5, Name: highspeed, Total Tests: 3, Average Accuracy: 1.0000
+Algorithm Index: 6, Name: veno, Total Tests: 3, Average Accuracy: 1.0000
+Algorithm Index: 7, Name: reno, Total Tests: 3, Average Accuracy: 1.0000
+Algorithm Index: 8, Name: yeah, Total Tests: 3, Average Accuracy: 0.6667
+Algorithm Index: 9, Name: illinois, Total Tests: 3, Average Accuracy: 1.0000
+Algorithm Index: 10, Name: bic, Total Tests: 3, Average Accuracy: 1.0000
+Algorithm Index: 11, Name: cubic, Total Tests: 3, Average Accuracy: 1.0000
+
+--------------------------------------------------
+Voting Mechanism in TOP 3 Environments:
+
+Environment ID: 16, Parameters: rtt_120ms_bdw_600Kbps
+
+Environment ID: 21, Parameters: rtt_200ms_bdw_400Kbps
+
+Environment ID: 4, Parameters: rtt_200ms_bdw_600Kbps
+
+Algorithm Voting Results:
+Algorithm Index: 0, Name: htcp, Correct Recognitions: 2, Total Tests: 3, Accuracy: 0.6667, Voting Result: Pass
+Algorithm Index: 1, Name: bbr, Correct Recognitions: 3, Total Tests: 3, Accuracy: 1.0000, Voting Result: Pass
+Algorithm Index: 2, Name: vegas, Correct Recognitions: 3, Total Tests: 3, Accuracy: 1.0000, Voting Result: Pass
+Algorithm Index: 3, Name: westwood, Correct Recognitions: 3, Total Tests: 3, Accuracy: 1.0000, Voting Result: Pass
+Algorithm Index: 4, Name: scalable, Correct Recognitions: 3, Total Tests: 3, Accuracy: 1.0000, Voting Result: Pass
+Algorithm Index: 5, Name: highspeed, Correct Recognitions: 3, Total Tests: 3, Accuracy: 1.0000, Voting Result: Pass
+Algorithm Index: 6, Name: veno, Correct Recognitions: 3, Total Tests: 3, Accuracy: 1.0000, Voting Result: Pass
+Algorithm Index: 7, Name: reno, Correct Recognitions: 3, Total Tests: 3, Accuracy: 1.0000, Voting Result: Pass
+Algorithm Index: 8, Name: yeah, Correct Recognitions: 2, Total Tests: 3, Accuracy: 0.6667, Voting Result: Pass
+Algorithm Index: 9, Name: illinois, Correct Recognitions: 3, Total Tests: 3, Accuracy: 1.0000, Voting Result: Pass
+Algorithm Index: 10, Name: bic, Correct Recognitions: 3, Total Tests: 3, Accuracy: 1.0000, Voting Result: Pass
+Algorithm Index: 11, Name: cubic, Correct Recognitions: 3, Total Tests: 3, Accuracy: 1.0000, Voting Result: Pass
+
+Final Voting-based Accuracy:
+Total Correct Algorithms: 12
+Total Algorithms: 12
+Final Accuracy: 1.0000

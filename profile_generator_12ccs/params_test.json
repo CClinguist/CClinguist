@@ -1,0 +1,202 @@
+[
+    {
+        "coef_acc_reward": 10,
+        "coef_obvious_reward": 31.01,
+        "coef_search_penalty": 5,
+        "base_penalty": 15,
+        "direction_penalty": 30,
+        "load_path": "model_rl/0527-1508-33/epoch-5.pt"
+    },
+    {
+        "coef_acc_reward": 10,
+        "coef_obvious_reward": 7.58,
+        "coef_search_penalty": 5,
+        "base_penalty": 15,
+        "direction_penalty": 30,
+        "load_path": "model_rl/0527-1556-44/epoch-5.pt"
+    },
+    {
+        "coef_acc_reward": 10,
+        "coef_obvious_reward": 9.86,
+        "coef_search_penalty": 5,
+        "base_penalty": 15,
+        "direction_penalty": 30,
+        "load_path": "model_rl/0527-1640-12/epoch-5.pt"
+    },
+    {
+        "coef_acc_reward": 10,
+        "coef_obvious_reward": 34.13,
+        "coef_search_penalty": 5,
+        "base_penalty": 15,
+        "direction_penalty": 30,
+        "load_path": "model_rl/0527-1724-08/epoch-5.pt"
+    },
+    {
+        "coef_acc_reward": 10,
+        "coef_obvious_reward": 7.45,
+        "coef_search_penalty": 5,
+        "base_penalty": 15,
+        "direction_penalty": 30,
+        "load_path": "model_rl/0527-1811-13/epoch-5.pt"
+    },
+    {
+        "coef_acc_reward": 3.91,
+        "coef_obvious_reward": 20,
+        "coef_search_penalty": 5,
+        "base_penalty": 15,
+        "direction_penalty": 30,
+        "load_path": "model_rl/0527-1854-17/epoch-5.pt"
+    },
+    {
+        "coef_acc_reward": 19.36,
+        "coef_obvious_reward": 20,
+        "coef_search_penalty": 5,
+        "base_penalty": 15,
+        "direction_penalty": 30,
+        "load_path": "model_rl/0527-1937-34/epoch-5.pt"
+    },
+    {
+        "coef_acc_reward": 23.18,
+        "coef_obvious_reward": 20,
+        "coef_search_penalty": 5,
+        "base_penalty": 15,
+        "direction_penalty": 30,
+        "load_path": "model_rl/0527-2026-18/epoch-5.pt"
+    },
+    {
+        "coef_acc_reward": 22.96,
+        "coef_obvious_reward": 20,
+        "coef_search_penalty": 5,
+        "base_penalty": 15,
+        "direction_penalty": 30,
+        "load_path": "model_rl/0527-2115-15/epoch-5.pt"
+    },
+    {
+        "coef_acc_reward": 22.35,
+        "coef_obvious_reward": 20,
+        "coef_search_penalty": 5,
+        "base_penalty": 15,
+        "direction_penalty": 30,
+        "load_path": "model_rl/0527-2204-48/epoch-5.pt"
+    },
+    {
+        "coef_acc_reward": 10,
+        "coef_obvious_reward": 20,
+        "coef_search_penalty": 0.21,
+        "base_penalty": 15,
+        "direction_penalty": 30,
+        "load_path": "model_rl/0527-2253-01/epoch-5.pt"
+    },
+    {
+        "coef_acc_reward": 10,
+        "coef_obvious_reward": 20,
+        "coef_search_penalty": 14.21,
+        "base_penalty": 15,
+        "direction_penalty": 30,
+        "load_path": "model_rl/0527-2340-44/epoch-5.pt"
+    },
+    {
+        "coef_acc_reward": 10,
+        "coef_obvious_reward": 20,
+        "coef_search_penalty": 1.39,
+        "base_penalty": 15,
+        "direction_penalty": 30,
+        "load_path": "model_rl/0528-0026-11/epoch-5.pt"
+    },
+    {
+        "coef_acc_reward": 10,
+        "coef_obvious_reward": 20,
+        "coef_search_penalty": 14.28,
+        "base_penalty": 15,
+        "direction_penalty": 30,
+        "load_path": "model_rl/0528-0112-42/epoch-5.pt"
+    },
+    {
+        "coef_acc_reward": 10,
+        "coef_obvious_reward": 20,
+        "coef_search_penalty": 1.08,
+        "base_penalty": 15,
+        "direction_penalty": 30,
+        "load_path": "model_rl/0528-0156-47/epoch-5.pt"
+    },
+    {
+        "coef_acc_reward": 10,
+        "coef_obvious_reward": 20,
+        "coef_search_penalty": 5,
+        "base_penalty": 8.06,
+        "direction_penalty": 30,
+        "load_path": "model_rl/0528-0243-40/epoch-5.pt"
+    },
+    {
+        "coef_acc_reward": 10,
+        "coef_obvious_reward": 20,
+        "coef_search_penalty": 5,
+        "base_penalty": 24.44,
+        "direction_penalty": 30,
+        "load_path": "model_rl/0528-0330-04/epoch-5.pt"
+    },
+    {
+        "coef_acc_reward": 10,
+        "coef_obvious_reward": 20,
+        "coef_search_penalty": 5,
+        "base_penalty": 10.99,
+        "direction_penalty": 30,
+        "load_path": "model_rl/0528-0415-43/epoch-5.pt"
+    },
+    {
+        "coef_acc_reward": 10,
+        "coef_obvious_reward": 20,
+        "coef_search_penalty": 5,
+        "base_penalty": 23.99,
+        "direction_penalty": 30,
+        "load_path": "model_rl/0528-0501-50/epoch-5.pt"
+    },
+    {
+        "coef_acc_reward": 10,
+        "coef_obvious_reward": 20,
+        "coef_search_penalty": 5,
+        "base_penalty": 23.06,
+        "direction_penalty": 30,
+        "load_path": "model_rl/0528-0547-12/epoch-5.pt"
+    },
+    {
+        "coef_acc_reward": 10,
+        "coef_obvious_reward": 20,
+        "coef_search_penalty": 5,
+        "base_penalty": 15,
+        "direction_penalty": 53.45,
+        "load_path": "model_rl/0528-0633-43/epoch-5.pt"
+    },
+    {
+        "coef_acc_reward": 10,
+        "coef_obvious_reward": 20,
+        "coef_search_penalty": 5,
+        "base_penalty": 15,
+        "direction_penalty": 55.27,
+        "load_path": "model_rl/0528-0716-45/epoch-5.pt"
+    },
+    {
+        "coef_acc_reward": 10,
+        "coef_obvious_reward": 20,
+        "coef_search_penalty": 5,
+        "base_penalty": 15,
+        "direction_penalty": 14.41,
+        "load_path": "model_rl/0528-0759-26/epoch-5.pt"
+    },
+    {
+        "coef_acc_reward": 10,
+        "coef_obvious_reward": 20,
+        "coef_search_penalty": 5,
+        "base_penalty": 15,
+        "direction_penalty": 52.98,
+        "load_path": "model_rl/0528-0847-50/epoch-5.pt"
+    },
+    {
+        "coef_acc_reward": 10,
+        "coef_obvious_reward": 20,
+        "coef_search_penalty": 5,
+        "base_penalty": 15,
+        "direction_penalty": 13.92,
+        "load_path": "model_rl/0528-0931-28/epoch-5.pt"
+    }
+]

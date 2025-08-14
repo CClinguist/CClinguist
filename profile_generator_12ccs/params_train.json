@@ -1,0 +1,177 @@
+[
+    {
+        "coef_acc_reward": 10,
+        "coef_obvious_reward": 31.01,
+        "coef_search_penalty": 5,
+        "base_penalty": 15,
+        "direction_penalty": 30
+    },
+    {
+        "coef_acc_reward": 10,
+        "coef_obvious_reward": 7.58,
+        "coef_search_penalty": 5,
+        "base_penalty": 15,
+        "direction_penalty": 30
+    },
+    {
+        "coef_acc_reward": 10,
+        "coef_obvious_reward": 9.86,
+        "coef_search_penalty": 5,
+        "base_penalty": 15,
+        "direction_penalty": 30
+    },
+    {
+        "coef_acc_reward": 10,
+        "coef_obvious_reward": 34.13,
+        "coef_search_penalty": 5,
+        "base_penalty": 15,
+        "direction_penalty": 30
+    },
+    {
+        "coef_acc_reward": 10,
+        "coef_obvious_reward": 7.45,
+        "coef_search_penalty": 5,
+        "base_penalty": 15,
+        "direction_penalty": 30
+    },
+    {
+        "coef_acc_reward": 3.91,
+        "coef_obvious_reward": 20,
+        "coef_search_penalty": 5,
+        "base_penalty": 15,
+        "direction_penalty": 30
+    },
+    {
+        "coef_acc_reward": 19.36,
+        "coef_obvious_reward": 20,
+        "coef_search_penalty": 5,
+        "base_penalty": 15,
+        "direction_penalty": 30
+    },
+    {
+        "coef_acc_reward": 23.18,
+        "coef_obvious_reward": 20,
+        "coef_search_penalty": 5,
+        "base_penalty": 15,
+        "direction_penalty": 30
+    },
+    {
+        "coef_acc_reward": 22.96,
+        "coef_obvious_reward": 20,
+        "coef_search_penalty": 5,
+        "base_penalty": 15,
+        "direction_penalty": 30
+    },
+    {
+        "coef_acc_reward": 22.35,
+        "coef_obvious_reward": 20,
+        "coef_search_penalty": 5,
+        "base_penalty": 15,
+        "direction_penalty": 30
+    },
+    {
+        "coef_acc_reward": 10,
+        "coef_obvious_reward": 20,
+        "coef_search_penalty": 0.21,
+        "base_penalty": 15,
+        "direction_penalty": 30
+    },
+    {
+        "coef_acc_reward": 10,
+        "coef_obvious_reward": 20,
+        "coef_search_penalty": 14.21,
+        "base_penalty": 15,
+        "direction_penalty": 30
+    },
+    {
+        "coef_acc_reward": 10,
+        "coef_obvious_reward": 20,
+        "coef_search_penalty": 1.39,
+        "base_penalty": 15,
+        "direction_penalty": 30
+    },
+    {
+        "coef_acc_reward": 10,
+        "coef_obvious_reward": 20,
+        "coef_search_penalty": 14.28,
+        "base_penalty": 15,
+        "direction_penalty": 30
+    },
+    {
+        "coef_acc_reward": 10,
+        "coef_obvious_reward": 20,
+        "coef_search_penalty": 1.08,
+        "base_penalty": 15,
+        "direction_penalty": 30
+    },
+    {
+        "coef_acc_reward": 10,
+        "coef_obvious_reward": 20,
+        "coef_search_penalty": 5,
+        "base_penalty": 8.06,
+        "direction_penalty": 30
+    },
+    {
+        "coef_acc_reward": 10,
+        "coef_obvious_reward": 20,
+        "coef_search_penalty": 5,
+        "base_penalty": 24.44,
+        "direction_penalty": 30
+    },
+    {
+        "coef_acc_reward": 10,
+        "coef_obvious_reward": 20,
+        "coef_search_penalty": 5,
+        "base_penalty": 10.99,
+        "direction_penalty": 30
+    },
+    {
+        "coef_acc_reward": 10,
+        "coef_obvious_reward": 20,
+        "coef_search_penalty": 5,
+        "base_penalty": 23.99,
+        "direction_penalty": 30
+    },
+    {
+        "coef_acc_reward": 10,
+        "coef_obvious_reward": 20,
+        "coef_search_penalty": 5,
+        "base_penalty": 23.06,
+        "direction_penalty": 30
+    },
+    {
+        "coef_acc_reward": 10,
+        "coef_obvious_reward": 20,
+        "coef_search_penalty": 5,
+        "base_penalty": 15,
+        "direction_penalty": 53.45
+    },
+    {
+        "coef_acc_reward": 10,
+        "coef_obvious_reward": 20,
+        "coef_search_penalty": 5,
+        "base_penalty": 15,
+        "direction_penalty": 55.27
+    },
+    {
+        "coef_acc_reward": 10,
+        "coef_obvious_reward": 20,
+        "coef_search_penalty": 5,
+        "base_penalty": 15,
+        "direction_penalty": 14.41
+    },
+    {
+        "coef_acc_reward": 10,
+        "coef_obvious_reward": 20,
+        "coef_search_penalty": 5,
+        "base_penalty": 15,
+        "direction_penalty": 52.98
+    },
+    {
+        "coef_acc_reward": 10,
+        "coef_obvious_reward": 20,
+        "coef_search_penalty": 5,
+        "base_penalty": 15,
+        "direction_penalty": 13.92
+    }
+]
