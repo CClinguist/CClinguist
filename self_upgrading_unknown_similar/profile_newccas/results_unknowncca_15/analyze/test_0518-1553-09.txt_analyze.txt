@@ -1,0 +1,61 @@
+--------------------------------------------------
+Best Environment Accuracy: 0.9464285714285714
+Best Environment ID: 9
+Best Environment Parameters: rtt_400ms_bdw_400Kbps
+
+--------------------------------------------------
+TOP 3 Environments Algorithm Accuracy:
+
+Environment ID: 9, Parameters: rtt_400ms_bdw_400Kbps,  Accuracy: 0.9464
+
+Environment ID: 13, Parameters: rtt_160ms_bdw_600Kbps,  Accuracy: 0.9464
+
+Environment ID: 2, Parameters: rtt_200ms_bdw_600Kbps,  Accuracy: 0.9286
+
+Average Accuracy in TOP 3 Environments:
+Algorithm Index: 0, Name: htcp, Total Tests: 12, Average Accuracy: 0.8333
+Algorithm Index: 1, Name: bbr, Total Tests: 12, Average Accuracy: 1.0000
+Algorithm Index: 2, Name: vegas, Total Tests: 12, Average Accuracy: 0.9167
+Algorithm Index: 3, Name: westwood, Total Tests: 12, Average Accuracy: 0.9167
+Algorithm Index: 4, Name: scalable, Total Tests: 11, Average Accuracy: 1.0000
+Algorithm Index: 5, Name: highspeed, Total Tests: 12, Average Accuracy: 1.0000
+Algorithm Index: 6, Name: veno, Total Tests: 12, Average Accuracy: 0.6667
+Algorithm Index: 7, Name: reno, Total Tests: 12, Average Accuracy: 0.4167
+Algorithm Index: 8, Name: yeah, Total Tests: 12, Average Accuracy: 0.9167
+Algorithm Index: 9, Name: illinois, Total Tests: 12, Average Accuracy: 0.9167
+Algorithm Index: 10, Name: bic, Total Tests: 12, Average Accuracy: 1.0000
+Algorithm Index: 11, Name: cubic, Total Tests: 12, Average Accuracy: 0.9167
+Algorithm Index: 12, Name: pccLatency, Total Tests: 12, Average Accuracy: 1.0000
+Algorithm Index: 13, Name: astraea, Total Tests: 12, Average Accuracy: 1.0000
+Algorithm Index: 14, Name: pccLoss, Total Tests: 12, Average Accuracy: 0.6667
+
+--------------------------------------------------
+Voting Mechanism in TOP 3 Environments:
+
+Environment ID: 9, Parameters: rtt_400ms_bdw_400Kbps
+
+Environment ID: 13, Parameters: rtt_160ms_bdw_600Kbps
+
+Environment ID: 2, Parameters: rtt_200ms_bdw_600Kbps
+
+Algorithm Voting Results:
+Algorithm Index: 0, Name: htcp, Correct Recognitions: 10, Total Tests: 12, Accuracy: 0.8333, Voting Result: Pass
+Algorithm Index: 1, Name: bbr, Correct Recognitions: 12, Total Tests: 12, Accuracy: 1.0000, Voting Result: Pass
+Algorithm Index: 2, Name: vegas, Correct Recognitions: 11, Total Tests: 12, Accuracy: 0.9167, Voting Result: Pass
+Algorithm Index: 3, Name: westwood, Correct Recognitions: 11, Total Tests: 12, Accuracy: 0.9167, Voting Result: Pass
+Algorithm Index: 4, Name: scalable, Correct Recognitions: 11, Total Tests: 11, Accuracy: 1.0000, Voting Result: Pass
+Algorithm Index: 5, Name: highspeed, Correct Recognitions: 12, Total Tests: 12, Accuracy: 1.0000, Voting Result: Pass
+Algorithm Index: 6, Name: veno, Correct Recognitions: 8, Total Tests: 12, Accuracy: 0.6667, Voting Result: Pass
+Algorithm Index: 7, Name: reno, Correct Recognitions: 5, Total Tests: 12, Accuracy: 0.4167, Voting Result: Fail
+Algorithm Index: 8, Name: yeah, Correct Recognitions: 11, Total Tests: 12, Accuracy: 0.9167, Voting Result: Pass
+Algorithm Index: 9, Name: illinois, Correct Recognitions: 11, Total Tests: 12, Accuracy: 0.9167, Voting Result: Pass
+Algorithm Index: 10, Name: bic, Correct Recognitions: 12, Total Tests: 12, Accuracy: 1.0000, Voting Result: Pass
+Algorithm Index: 11, Name: cubic, Correct Recognitions: 11, Total Tests: 12, Accuracy: 0.9167, Voting Result: Pass
+Algorithm Index: 12, Name: pccLatency, Correct Recognitions: 12, Total Tests: 12, Accuracy: 1.0000, Voting Result: Pass
+Algorithm Index: 13, Name: astraea, Correct Recognitions: 12, Total Tests: 12, Accuracy: 1.0000, Voting Result: Pass
+Algorithm Index: 14, Name: pccLoss, Correct Recognitions: 8, Total Tests: 12, Accuracy: 0.6667, Voting Result: Pass
+
+Final Voting-based Accuracy:
+Total Correct Algorithms: 14
+Total Algorithms: 15
+Final Accuracy: 0.9333

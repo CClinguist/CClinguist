@@ -1,0 +1,24 @@
+data_path: data/simulation_new_CCs_test
+astraea rtt_160ms_bdw_600Kbps
+astraea vegas tensor(2.8043, device='cuda:0') 0.00 0.00 1.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00
+astraea vegas tensor(6.4980, device='cuda:0') 0.00 0.00 0.98 0.00 0.00 0.00 0.00 0.02 0.00 0.00 0.00 0.00
+astraea vegas tensor(2.7063, device='cuda:0') 0.00 0.00 1.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00
+astraea vegas tensor(2.6109, device='cuda:0') 0.00 0.00 1.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00
+astraea vegas tensor(2.7739, device='cuda:0') 0.00 0.00 1.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00
+astraea vegas tensor(2.9356, device='cuda:0') 0.00 0.00 1.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00
+astraea vegas tensor(2.6728, device='cuda:0') 0.00 0.00 1.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00
+astraea vegas tensor(3.4827, device='cuda:0') 0.00 0.00 1.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00
+astraea vegas tensor(6.6707, device='cuda:0') 0.00 0.00 0.98 0.00 0.00 0.00 0.00 0.02 0.00 0.00 0.00 0.00
+astraea vegas tensor(6.6328, device='cuda:0') 0.00 0.00 0.98 0.00 0.00 0.00 0.00 0.02 0.00 0.00 0.00 0.00
+data_path: data_upgrading/simulation_new_CCs_test
+astraea rtt_160ms_bdw_600Kbps
+astraea vegas tensor(2.8043, device='cuda:0') 0.00 0.00 1.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00
+astraea vegas tensor(6.4980, device='cuda:0') 0.00 0.00 0.98 0.00 0.00 0.00 0.00 0.02 0.00 0.00 0.00 0.00
+astraea vegas tensor(2.7063, device='cuda:0') 0.00 0.00 1.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00
+astraea vegas tensor(2.6109, device='cuda:0') 0.00 0.00 1.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00
+astraea vegas tensor(2.7739, device='cuda:0') 0.00 0.00 1.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00
+astraea vegas tensor(2.9356, device='cuda:0') 0.00 0.00 1.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00
+astraea vegas tensor(2.6728, device='cuda:0') 0.00 0.00 1.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00
+astraea vegas tensor(3.4827, device='cuda:0') 0.00 0.00 1.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00
+astraea vegas tensor(6.6707, device='cuda:0') 0.00 0.00 0.98 0.00 0.00 0.00 0.00 0.02 0.00 0.00 0.00 0.00
+astraea vegas tensor(6.6328, device='cuda:0') 0.00 0.00 0.98 0.00 0.00 0.00 0.00 0.02 0.00 0.00 0.00 0.00

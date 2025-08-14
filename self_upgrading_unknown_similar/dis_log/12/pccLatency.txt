@@ -1,0 +1,24 @@
+data_path: data/simulation_new_CCs_test
+pccLatency rtt_160ms_bdw_600Kbps
+pccLatency vegas tensor(9.1377, device='cuda:0') 0.00 0.00 0.88 0.01 0.00 0.00 0.00 0.08 0.00 0.00 0.02 0.00
+pccLatency vegas tensor(11.3420, device='cuda:0') 0.00 0.00 0.54 0.07 0.00 0.00 0.00 0.31 0.00 0.00 0.08 0.00
+pccLatency vegas tensor(9.1364, device='cuda:0') 0.00 0.00 0.89 0.01 0.00 0.00 0.00 0.08 0.00 0.00 0.02 0.00
+pccLatency vegas tensor(4.5243, device='cuda:0') 0.00 0.00 1.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00
+pccLatency vegas tensor(9.1542, device='cuda:0') 0.00 0.00 0.88 0.01 0.00 0.00 0.00 0.08 0.00 0.00 0.02 0.00
+pccLatency vegas tensor(4.1462, device='cuda:0') 0.00 0.00 1.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00
+pccLatency vegas tensor(9.1364, device='cuda:0') 0.00 0.00 0.89 0.01 0.00 0.00 0.00 0.08 0.00 0.00 0.02 0.00
+pccLatency vegas tensor(8.2356, device='cuda:0') 0.00 0.00 0.94 0.00 0.00 0.00 0.00 0.05 0.00 0.00 0.01 0.00
+pccLatency vegas tensor(9.6165, device='cuda:0') 0.00 0.00 0.82 0.01 0.00 0.00 0.00 0.13 0.00 0.00 0.03 0.00
+pccLatency vegas tensor(9.3263, device='cuda:0') 0.00 0.00 0.87 0.01 0.00 0.00 0.00 0.10 0.00 0.00 0.02 0.00
+data_path: data_upgrading/simulation_new_CCs_test
+pccLatency rtt_160ms_bdw_600Kbps
+pccLatency vegas tensor(9.1377, device='cuda:0') 0.00 0.00 0.88 0.01 0.00 0.00 0.00 0.08 0.00 0.00 0.02 0.00
+pccLatency vegas tensor(11.3420, device='cuda:0') 0.00 0.00 0.54 0.07 0.00 0.00 0.00 0.31 0.00 0.00 0.08 0.00
+pccLatency vegas tensor(9.1364, device='cuda:0') 0.00 0.00 0.89 0.01 0.00 0.00 0.00 0.08 0.00 0.00 0.02 0.00
+pccLatency vegas tensor(4.5243, device='cuda:0') 0.00 0.00 1.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00
+pccLatency vegas tensor(9.1542, device='cuda:0') 0.00 0.00 0.88 0.01 0.00 0.00 0.00 0.08 0.00 0.00 0.02 0.00
+pccLatency vegas tensor(4.1462, device='cuda:0') 0.00 0.00 1.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00
+pccLatency vegas tensor(9.1364, device='cuda:0') 0.00 0.00 0.89 0.01 0.00 0.00 0.00 0.08 0.00 0.00 0.02 0.00
+pccLatency vegas tensor(8.2356, device='cuda:0') 0.00 0.00 0.94 0.00 0.00 0.00 0.00 0.05 0.00 0.00 0.01 0.00
+pccLatency vegas tensor(9.6165, device='cuda:0') 0.00 0.00 0.82 0.01 0.00 0.00 0.00 0.13 0.00 0.00 0.03 0.00
+pccLatency vegas tensor(9.3263, device='cuda:0') 0.00 0.00 0.87 0.01 0.00 0.00 0.00 0.10 0.00 0.00 0.02 0.00

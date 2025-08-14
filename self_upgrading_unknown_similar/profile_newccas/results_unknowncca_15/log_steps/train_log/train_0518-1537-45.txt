@@ -1,0 +1,3 @@
+epoch:1 average steps:1.8485576923076923
+epoch:2 average steps:1.8215144230769231
+epoch:3 average steps:1.8167067307692308

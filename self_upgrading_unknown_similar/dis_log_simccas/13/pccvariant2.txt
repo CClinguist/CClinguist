@@ -1,0 +1,12 @@
+data_path: data/simlarccas_test
+pccvariant2 rtt_200ms_bdw_600Kbps
+pccvariant2 pcc tensor(0.2130, device='cuda:0') 0.00 0.00 0.00 0.00 0.00 0.00 0.01 0.00 0.00 0.00 0.00 0.00 0.98
+pccvariant2 pcc tensor(0.2159, device='cuda:0') 0.00 0.00 0.00 0.00 0.00 0.00 0.01 0.00 0.00 0.00 0.00 0.00 0.98
+pccvariant2 pcc tensor(0.2261, device='cuda:0') 0.00 0.00 0.00 0.00 0.00 0.00 0.01 0.00 0.00 0.00 0.00 0.00 0.98
+pccvariant2 pcc tensor(0.3045, device='cuda:0') 0.00 0.00 0.00 0.00 0.00 0.00 0.01 0.00 0.00 0.00 0.00 0.00 0.98
+pccvariant2 pcc tensor(0.2139, device='cuda:0') 0.00 0.00 0.00 0.00 0.00 0.00 0.01 0.00 0.00 0.00 0.00 0.00 0.98
+pccvariant2 pcc tensor(2.5276, device='cuda:0') 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 1.00
+pccvariant2 pcc tensor(0.2711, device='cuda:0') 0.00 0.00 0.00 0.00 0.00 0.00 0.01 0.00 0.00 0.00 0.00 0.00 0.98
+pccvariant2 pcc tensor(0.2892, device='cuda:0') 0.00 0.00 0.00 0.00 0.00 0.00 0.01 0.00 0.00 0.00 0.00 0.00 0.98
+pccvariant2 pcc tensor(2.5190, device='cuda:0') 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 1.00
+pccvariant2 pcc tensor(0.2132, device='cuda:0') 0.00 0.00 0.00 0.00 0.00 0.00 0.01 0.00 0.00 0.00 0.00 0.00 0.98

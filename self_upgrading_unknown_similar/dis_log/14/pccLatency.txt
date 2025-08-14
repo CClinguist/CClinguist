@@ -1,0 +1,24 @@
+data_path: data/simulation_new_CCs_test
+pccLatency rtt_160ms_bdw_600Kbps
+pccLatency pccLatency tensor(0.7921, device='cuda:0') 0.00 0.01 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.97 0.02
+pccLatency pccLatency tensor(0.8813, device='cuda:0') 0.00 0.02 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.96 0.02
+pccLatency pccLatency tensor(0.7732, device='cuda:0') 0.00 0.01 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.97 0.02
+pccLatency pccLatency tensor(1.1497, device='cuda:0') 0.00 0.01 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.98 0.01
+pccLatency pccLatency tensor(0.7646, device='cuda:0') 0.00 0.01 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.97 0.02
+pccLatency pccLatency tensor(1.1714, device='cuda:0') 0.00 0.01 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.97 0.01
+pccLatency pccLatency tensor(0.7732, device='cuda:0') 0.00 0.01 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.97 0.02
+pccLatency pccLatency tensor(0.7815, device='cuda:0') 0.00 0.01 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.97 0.02
+pccLatency pccLatency tensor(0.7949, device='cuda:0') 0.00 0.01 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.97 0.02
+pccLatency pccLatency tensor(0.8005, device='cuda:0') 0.00 0.01 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.97 0.02
+data_path: data_upgrading/simulation_new_CCs_test
+pccLatency rtt_160ms_bdw_600Kbps
+pccLatency pccLatency tensor(0.7921, device='cuda:0') 0.00 0.01 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.97 0.02
+pccLatency pccLatency tensor(0.8813, device='cuda:0') 0.00 0.02 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.96 0.02
+pccLatency pccLatency tensor(0.7732, device='cuda:0') 0.00 0.01 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.97 0.02
+pccLatency pccLatency tensor(1.1497, device='cuda:0') 0.00 0.01 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.98 0.01
+pccLatency pccLatency tensor(0.7646, device='cuda:0') 0.00 0.01 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.97 0.02
+pccLatency pccLatency tensor(1.1714, device='cuda:0') 0.00 0.01 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.97 0.01
+pccLatency pccLatency tensor(0.7732, device='cuda:0') 0.00 0.01 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.97 0.02
+pccLatency pccLatency tensor(0.7815, device='cuda:0') 0.00 0.01 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.97 0.02
+pccLatency pccLatency tensor(0.7949, device='cuda:0') 0.00 0.01 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.97 0.02
+pccLatency pccLatency tensor(0.8005, device='cuda:0') 0.00 0.01 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.97 0.02

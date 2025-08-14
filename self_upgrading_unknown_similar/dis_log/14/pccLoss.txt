@@ -1,0 +1,24 @@
+data_path: data/simulation_new_CCs_test
+pccLoss rtt_160ms_bdw_600Kbps
+pccLoss pccLatency tensor(2.5830, device='cuda:0') 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.99 0.00
+pccLoss pccLatency tensor(3.5271, device='cuda:0') 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.99 0.00
+pccLoss pccLatency tensor(8.1014, device='cuda:0') 0.00 0.00 0.01 0.01 0.00 0.00 0.00 0.00 0.00 0.01 0.00 0.00 0.97 0.00
+pccLoss pccLatency tensor(2.5799, device='cuda:0') 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.99 0.00
+pccLoss pccLatency tensor(9.5766, device='cuda:0') 0.00 0.00 0.03 0.02 0.00 0.01 0.00 0.00 0.00 0.01 0.00 0.00 0.92 0.00
+pccLoss pccLatency tensor(10.9162, device='cuda:0') 0.00 0.00 0.09 0.07 0.00 0.02 0.01 0.00 0.00 0.02 0.00 0.00 0.77 0.00
+pccLoss pccLatency tensor(7.6462, device='cuda:0') 0.00 0.00 0.01 0.01 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.98 0.00
+pccLoss pccLatency tensor(2.4435, device='cuda:0') 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.99 0.00
+pccLoss pccLatency tensor(1.6027, device='cuda:0') 0.00 0.01 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.98 0.01
+pccLoss pccLatency tensor(2.4937, device='cuda:0') 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.99 0.00
+data_path: data_upgrading/simulation_new_CCs_test
+pccLoss rtt_160ms_bdw_600Kbps
+pccLoss pccLatency tensor(2.5830, device='cuda:0') 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.99 0.00
+pccLoss pccLatency tensor(3.5271, device='cuda:0') 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.99 0.00
+pccLoss pccLatency tensor(8.1014, device='cuda:0') 0.00 0.00 0.01 0.01 0.00 0.00 0.00 0.00 0.00 0.01 0.00 0.00 0.97 0.00
+pccLoss pccLatency tensor(2.5799, device='cuda:0') 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.99 0.00
+pccLoss pccLatency tensor(9.5766, device='cuda:0') 0.00 0.00 0.03 0.02 0.00 0.01 0.00 0.00 0.00 0.01 0.00 0.00 0.92 0.00
+pccLoss pccLatency tensor(10.9162, device='cuda:0') 0.00 0.00 0.09 0.07 0.00 0.02 0.01 0.00 0.00 0.02 0.00 0.00 0.77 0.00
+pccLoss pccLatency tensor(7.6462, device='cuda:0') 0.00 0.00 0.01 0.01 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.98 0.00
+pccLoss pccLatency tensor(2.4435, device='cuda:0') 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.99 0.00
+pccLoss pccLatency tensor(1.6027, device='cuda:0') 0.00 0.01 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.98 0.01
+pccLoss pccLatency tensor(2.4937, device='cuda:0') 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.99 0.00
