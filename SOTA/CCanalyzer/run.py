@@ -19,6 +19,7 @@ import math
 def measure_rtt(targetUrl):
     targetUrl = re.sub(r'^https?://', '', targetUrl)
     try:
+        
         result = subprocess.run(
             f'ping -c 4 {targetUrl}',
             capture_output=True,
