@@ -64,7 +64,7 @@ def parse_data(data_str):
             # envs_info = line.split(':')
             # env_name = envs_info[1].strip()
             # best_nodes.add(env_name)
-            best_nodes.add('rtt_160ms_bdw_600Kbps') 
+            best_nodes.add('rtt_400ms_bdw_400Kbps') 
            
     return data, best_nodes
 
