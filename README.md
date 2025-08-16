@@ -1,7 +1,18 @@
-# CClinguist  
-**An Expert-Free Framework for Future-Compatible Congestion Control Algorithm Identification**
-
+# CClinguist: An Expert-Free Framework for Future-Compatible Congestion Control Algorithm Identification
 ---
+## 👥 Authors
+- Jiahui Li(Fudan University) <22110240094@m.fudan.edu.cn>  
+- Han Qi (Fudan University) <hqi23@m.fudan.edu.cn>  
+- Ruyi Yao (Fudan University) <ryyao20@fudan.edu.cn> 
+- Jialin Wei (Fudan University) <24210240332@m.fudan.edu.cn>  
+- Ruoshi Sun (Fudan University) <rssun23@m.fudan.edu.cn> 
+- Zixuan Chen (Fudan University) <zxchen20@fudan.edu.cn>
+- Sen Liu (Fudan University) <senliu@fudan.edu.cn>
+- [Yang Xu](https://yangxu.info/) (Fudan University) <xuy@fudan.edu.cn>  
+
+## 📜 Publication
+This work is published in ACM SIGCOMM 2025:  
+**CClinguist: An Expert-Free Framework for Future-Compatible Congestion Control Algorithm Identification**  
 
 ## Overview
 
