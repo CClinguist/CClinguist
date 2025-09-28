@@ -1,0 +1,12 @@
+data_path: /home/ml4net/LJH/EFAAA/1209_cclinguist/0501_unknown/data/simulation_pk2hk_new_pccloss_0514
+pccLatency rtt_160ms_bdw_600Kbps
+pccLatency vegas tensor(3.7345, device='cuda:0') 0.00 0.00 0.97 0.00 0.00 0.00 0.00 0.02 0.00 0.00 0.01 0.00
+pccLatency reno tensor(18.9231, device='cuda:0') 0.00 0.25 0.00 0.20 0.00 0.00 0.00 0.48 0.00 0.00 0.07 0.00
+pccLatency reno tensor(18.9361, device='cuda:0') 0.00 0.05 0.00 0.18 0.00 0.00 0.00 0.57 0.00 0.00 0.20 0.00
+pccLatency reno tensor(20.6784, device='cuda:0') 0.00 0.02 0.01 0.05 0.00 0.00 0.00 0.54 0.00 0.00 0.38 0.00
+pccLatency vegas tensor(3.6909, device='cuda:0') 0.00 0.00 0.95 0.00 0.00 0.00 0.00 0.04 0.00 0.00 0.01 0.00
+pccLatency reno tensor(20.5356, device='cuda:0') 0.00 0.01 0.00 0.08 0.00 0.00 0.00 0.56 0.00 0.00 0.34 0.00
+pccLatency reno tensor(18.4660, device='cuda:0') 0.00 0.16 0.00 0.29 0.00 0.00 0.00 0.47 0.00 0.00 0.08 0.00
+pccLatency reno tensor(20.1227, device='cuda:0') 0.00 0.02 0.00 0.09 0.00 0.00 0.00 0.53 0.00 0.00 0.36 0.00
+pccLatency reno tensor(20.2534, device='cuda:0') 0.00 0.02 0.00 0.09 0.00 0.00 0.00 0.54 0.00 0.00 0.35 0.00
+pccLatency vegas tensor(8.7725, device='cuda:0') 0.00 0.00 1.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00

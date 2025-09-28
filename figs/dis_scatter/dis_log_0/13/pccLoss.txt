@@ -1,0 +1,12 @@
+data_path: data/simulation_15CCs
+pccLoss rtt_200ms_bdw_600Kbps
+pccLoss pccLatency tensor(3.9609, device='cuda:0') 0.00 0.06 0.01 0.10 0.00 0.00 0.05 0.00 0.00 0.00 0.00 0.01 0.76
+pccLoss pccLatency tensor(3.3557, device='cuda:0') 0.00 0.04 0.00 0.11 0.00 0.00 0.05 0.00 0.00 0.00 0.00 0.01 0.78
+pccLoss bbr tensor(4.3966, device='cuda:0') 0.00 0.87 0.00 0.02 0.00 0.00 0.01 0.00 0.00 0.00 0.00 0.00 0.09
+pccLoss pccLatency tensor(3.0333, device='cuda:0') 0.00 0.02 0.00 0.12 0.00 0.00 0.04 0.00 0.00 0.00 0.00 0.01 0.79
+pccLoss pccLatency tensor(3.9920, device='cuda:0') 0.00 0.07 0.01 0.10 0.00 0.00 0.05 0.00 0.00 0.00 0.00 0.01 0.76
+pccLoss pccLatency tensor(3.0941, device='cuda:0') 0.00 0.03 0.00 0.12 0.00 0.00 0.04 0.00 0.00 0.00 0.00 0.01 0.79
+pccLoss pccLatency tensor(3.8806, device='cuda:0') 0.00 0.06 0.01 0.10 0.00 0.00 0.05 0.00 0.00 0.00 0.00 0.01 0.77
+pccLoss pccLatency tensor(2.9961, device='cuda:0') 0.00 0.02 0.00 0.12 0.00 0.00 0.04 0.00 0.00 0.00 0.00 0.01 0.79
+pccLoss pccLatency tensor(3.8671, device='cuda:0') 0.00 0.06 0.01 0.10 0.00 0.00 0.05 0.00 0.00 0.00 0.00 0.01 0.77
+pccLoss pccLatency tensor(4.0902, device='cuda:0') 0.00 0.07 0.01 0.10 0.00 0.00 0.05 0.00 0.00 0.00 0.00 0.01 0.76

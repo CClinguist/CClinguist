@@ -1,0 +1,12 @@
+data_path: /home/ml4net/LJH/EFAAA/1209_cclinguist/0501_unknown/data/simulation_pk2hk_new_pccloss_0514
+astraea rtt_400ms_bdw_400Kbps
+astraea astraea tensor(0.8725, device='cuda:0') 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.99 0.00
+astraea astraea tensor(0.8950, device='cuda:0') 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.99 0.00
+astraea astraea tensor(0.9897, device='cuda:0') 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.99 0.00
+astraea astraea tensor(1.8611, device='cuda:0') 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.01 0.99 0.00
+astraea astraea tensor(0.9149, device='cuda:0') 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.99 0.00
+astraea astraea tensor(0.8798, device='cuda:0') 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.99 0.00
+astraea astraea tensor(1.8474, device='cuda:0') 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.01 0.99 0.00
+astraea astraea tensor(1.8509, device='cuda:0') 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.01 0.99 0.00
+astraea astraea tensor(0.9127, device='cuda:0') 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.99 0.00
+astraea astraea tensor(0.8677, device='cuda:0') 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.99 0.00

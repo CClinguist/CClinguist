@@ -1,0 +1,12 @@
+data_path: /home/ml4net/LJH/EFAAA/1209_cclinguist/0501_unknown/data/simulation_pk2hk_new_pccloss_0514
+pccLatency rtt_160ms_bdw_600Kbps
+pccLatency pccLatency tensor(0.8409, device='cuda:0') 0.00 0.01 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.98 0.01
+pccLatency pccLatency tensor(0.7164, device='cuda:0') 0.00 0.01 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.98 0.00
+pccLatency pccLatency tensor(0.5820, device='cuda:0') 0.00 0.01 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.98 0.01
+pccLatency pccLatency tensor(0.6382, device='cuda:0') 0.00 0.01 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.98 0.01
+pccLatency pccLatency tensor(0.7816, device='cuda:0') 0.00 0.01 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.99 0.00
+pccLatency pccLatency tensor(0.5842, device='cuda:0') 0.00 0.01 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.98 0.01
+pccLatency pccLatency tensor(0.6933, device='cuda:0') 0.00 0.01 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.98 0.01
+pccLatency pccLatency tensor(0.6034, device='cuda:0') 0.00 0.01 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.98 0.01
+pccLatency pccLatency tensor(0.5970, device='cuda:0') 0.00 0.01 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.98 0.01
+pccLatency pccLatency tensor(1.4494, device='cuda:0') 0.00 0.01 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.98 0.01
