@@ -150,10 +150,10 @@ For detailed instructions, see [README_docker.md](README_docker_en.md).
 You can train the classifier and the profile generator with the data you collected. Follow these steps:
 
 1. Log in to Wandb with your API key.
-2. Modify the `data_path` in `classifier/classifier.py` to point to your data.
+2. Modify the `data_path` in `classifier/train.py` to point to your data.
 3. Train the classifier by running:
     ```sh
-    python Classifier/classifier.py
+    python classifier/train.py
     ```
 4. With the trained classifier, you can train the profile generator. Make sure to set the options in `profile_generator/option.py`.
 
