@@ -38,8 +38,6 @@ If you only want to verify **accuracy-independent** results (pre-generated param
     bash test_from_params.sh
 
     ```
-    
-5. 
 
 # 3.Parameter-Independent Experiment (Re-validation with Random Parameters)
 
