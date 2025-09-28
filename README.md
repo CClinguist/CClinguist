@@ -157,6 +157,28 @@ You can train the classifier and the profile generator with the data you collect
     ```
 4. With the trained classifier, you can train the profile generator. Make sure to set the options in `profile_generator/option.py`.
 
+## D. Visualization Scripts
+
+The `figs/` folder contains visualization scripts for generating figures used in the paper:
+
+**Usage**:
+```bash
+cd figs/dis_scatter
+python plot_dis_scatter.py
+python plot_simccas_scatter.py
+
+
+cd figs/trace
+python plot.py
+python plot_grid.py
+```
+
+**Dependencies**:
+- `matplotlib`
+- `pandas`
+- `numpy`
+
+---
 
 ## Other SOTA Work
 
